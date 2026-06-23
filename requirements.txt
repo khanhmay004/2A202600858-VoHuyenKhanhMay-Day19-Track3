@@ -1,0 +1,9 @@
+# LAB DAY 19 — GraphRAG (env: conda main, Python 3.11)
+langextract[openai]>=1.5.0   # Trích xuất thực thể/quan hệ (Step 1), backend OpenAI
+networkx==3.4.2              # Đồ thị tri thức (Step 2/3)
+matplotlib==3.10.6           # Vẽ ảnh đồ thị (Deliverable 2)
+openai==1.66.3               # gpt-4o-mini (trích xuất) / gpt-4o (trả lời, judge)
+chromadb==1.5.9              # Vector store cho Flat RAG
+sentence-transformers==4.1.0 # Embedding all-MiniLM-L6-v2 (offline)
+pandas==2.2.3
+tiktoken==0.9.0              # Đếm/ước lượng token cho phân tích chi phí

@@ -1,0 +1,1303 @@
+{"entity": "U.S. electric vehicle market", "etype": "organization", "subtype": "market"}
+{"entity": "Anh Bui", "etype": "person", "subtype": "person"}
+{"entity": "Peter Slowik", "etype": "person", "subtype": "person"}
+{"entity": "Nic Lutsey", "etype": "person", "subtype": "person"}
+{"entity": "BloombergNEF", "etype": "organization", "subtype": "organization"}
+{"entity": "Bloomberg Finance LP", "etype": "organization", "subtype": "organization"}
+{"entity": "US", "etype": "location", "subtype": "location"}
+{"entity": "BloombergNEF", "etype": "organization", "subtype": "organization"}
+{"entity": "China", "etype": "location", "subtype": "location"}
+{"entity": "BloombergNEF", "etype": "organization", "subtype": "organization"}
+{"entity": "Colin McKerracher", "etype": "person", "subtype": "person"}
+{"entity": "Aleksandra O’Donovan", "etype": "person", "subtype": "person"}
+{"entity": "Dr. Nikolas Soulopoulos", "etype": "person", "subtype": "person"}
+{"entity": "Andrew Grant", "etype": "person", "subtype": "person"}
+{"entity": "Jinghong Lyu", "etype": "person", "subtype": "person"}
+{"entity": "Siyi Mi", "etype": "person", "subtype": "person"}
+{"entity": "David Doherty", "etype": "person", "subtype": "person"}
+{"entity": "Ryan Fisher", "etype": "person", "subtype": "person"}
+{"entity": "Corey Cantor", "etype": "person", "subtype": "person"}
+{"entity": "Maynie Yang", "etype": "person", "subtype": "person"}
+{"entity": "Dr. Kwasi Ampofo", "etype": "person", "subtype": "person"}
+{"entity": "Yayoi Sekine", "etype": "person", "subtype": "person"}
+{"entity": "Dr. Andy Leach", "etype": "person", "subtype": "person"}
+{"entity": "Evelina Stoikou", "etype": "person", "subtype": "person"}
+{"entity": "Jiayan Shi", "etype": "person", "subtype": "person"}
+{"entity": "Peng Xu", "etype": "person", "subtype": "person"}
+{"entity": "Luxi Hong", "etype": "person", "subtype": "person"}
+{"entity": "Madeleine Brolly", "etype": "person", "subtype": "person"}
+{"entity": "Siong-Hu Wong", "etype": "person", "subtype": "person"}
+{"entity": "Komal Kareer", "etype": "person", "subtype": "person"}
+{"entity": "Leonard Quong", "etype": "person", "subtype": "person"}
+{"entity": "Vinicius Nunes", "etype": "person", "subtype": "person"}
+{"entity": "Takehiro Kawahara", "etype": "person", "subtype": "person"}
+{"entity": "NVIDIA", "etype": "organization", "subtype": "company"}
+{"entity": "Jensen Huang", "etype": "person", "subtype": "person"}
+{"entity": "NVIDIA", "etype": "organization", "subtype": "company"}
+{"entity": "NVIDIA", "etype": "organization", "subtype": "company"}
+{"entity": "Polestar", "etype": "organization", "subtype": "company"}
+{"entity": "Gothenburg, Sweden", "etype": "location", "subtype": "location"}
+{"entity": "Polestar", "etype": "organization", "subtype": "company"}
+{"entity": "Volvo Cars", "etype": "organization", "subtype": "company"}
+{"entity": "Polestar 2", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Polestar 3", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Polestar 4", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Polestar 5", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Polestar 6", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Gothenburg", "etype": "location", "subtype": "city"}
+{"entity": "Polestar", "etype": "organization", "subtype": "company"}
+{"entity": "Volvo Cars", "etype": "organization", "subtype": "company"}
+{"entity": "Geely", "etype": "organization", "subtype": "company"}
+{"entity": "Xingji Meizu Group", "etype": "organization", "subtype": "company"}
+{"entity": "Polestar Automotive Holding UK PLC", "etype": "organization", "subtype": "company"}
+{"entity": "Polestar Automotive Holding UK PLC", "etype": "organization", "subtype": "company"}
+{"entity": "Polestar", "etype": "organization", "subtype": "company"}
+{"entity": "VinFast Auto Ltd.", "etype": "organization", "subtype": "company"}
+{"entity": "Madam Thuy Le", "etype": "person", "subtype": "person"}
+{"entity": "Ms. Lan Anh Nguyen", "etype": "person", "subtype": "person"}
+{"entity": "VinFast", "etype": "organization", "subtype": "company"}
+{"entity": "Pham Nhat Vuong", "etype": "person", "subtype": "person"}
+{"entity": "Vingroup Joint Stock Company", "etype": "organization", "subtype": "company"}
+{"entity": "Vietnam", "etype": "location", "subtype": "location"}
+{"entity": "U.S.", "etype": "location", "subtype": "location"}
+{"entity": "Canada", "etype": "location", "subtype": "location"}
+{"entity": "Indonesia", "etype": "location", "subtype": "location"}
+{"entity": "Philippines", "etype": "location", "subtype": "location"}
+{"entity": "Middle East", "etype": "location", "subtype": "location"}
+{"entity": "Dubai", "etype": "location", "subtype": "location"}
+{"entity": "VF 3", "etype": "product", "subtype": "vehicle model"}
+{"entity": "VF 5", "etype": "product", "subtype": "vehicle model"}
+{"entity": "VF 7", "etype": "product", "subtype": "vehicle model"}
+{"entity": "VF 9", "etype": "product", "subtype": "vehicle model"}
+{"entity": "VF e34", "etype": "product", "subtype": "vehicle model"}
+{"entity": "VinFast", "etype": "organization", "subtype": "company"}
+{"entity": "Vingroup JSC", "etype": "organization", "subtype": "company"}
+{"entity": "Vietnam", "etype": "location", "subtype": "location"}
+{"entity": "North America", "etype": "location", "subtype": "location"}
+{"entity": "Vingroup", "etype": "organization", "subtype": "company"}
+{"entity": "VinFast", "etype": "organization", "subtype": "company"}
+{"entity": "VF 9", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Bluewaters Island", "etype": "location", "subtype": "location"}
+{"entity": "ZEEKR Intelligent Technology Holding Limited", "etype": "organization", "subtype": "company"}
+{"entity": "Andy An", "etype": "person", "subtype": "person"}
+{"entity": "Jing Yuan", "etype": "person", "subtype": "person"}
+{"entity": "ZEEKR 001 2024", "etype": "product", "subtype": "vehicle model"}
+{"entity": "ZEEKR 009 Grand", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Geely Group", "etype": "organization", "subtype": "company"}
+{"entity": "ZEEKR", "etype": "organization", "subtype": "company"}
+{"entity": "ZEEKR 001", "etype": "product", "subtype": "vehicle model"}
+{"entity": "ZEEKR 001 FR", "etype": "product", "subtype": "vehicle model"}
+{"entity": "ZEEKR 009", "etype": "product", "subtype": "vehicle model"}
+{"entity": "ZEEKR 009 Grand", "etype": "product", "subtype": "vehicle model"}
+{"entity": "ZEEKR X", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Upscale sedan model", "etype": "product", "subtype": "vehicle model"}
+{"entity": "ZEEKR INC.", "etype": "organization", "subtype": "company"}
+{"entity": "ZEEKR INC.", "etype": "organization", "subtype": "company"}
+{"entity": "ZEEKR Intelligent Technology Holding Limited", "etype": "organization", "subtype": "company"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "BYD", "etype": "organization", "subtype": "company"}
+{"entity": "CATL", "etype": "organization", "subtype": "company"}
+{"entity": "VinFast", "etype": "organization", "subtype": "company"}
+{"entity": "Polestar", "etype": "organization", "subtype": "company"}
+{"entity": "Canoo", "etype": "organization", "subtype": "company"}
+{"entity": "Fisker", "etype": "organization", "subtype": "company"}
+{"entity": "Lucid", "etype": "organization", "subtype": "company"}
+{"entity": "Nikola", "etype": "organization", "subtype": "company"}
+{"entity": "US EV market", "etype": "organization", "subtype": "market"}
+{"entity": "Gevo", "etype": "organization", "subtype": "company"}
+{"entity": "Stellantis", "etype": "organization", "subtype": "company"}
+{"entity": "Volkswagen", "etype": "organization", "subtype": "company"}
+{"entity": "Glencore", "etype": "organization", "subtype": "company"}
+{"entity": "Chrysler", "etype": "organization", "subtype": "company"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "Albemarle", "etype": "organization", "subtype": "company"}
+{"entity": "Core Lithium", "etype": "organization", "subtype": "company"}
+{"entity": "Liontown Resources", "etype": "organization", "subtype": "company"}
+{"entity": "Pilbara Minerals", "etype": "organization", "subtype": "company"}
+{"entity": "Piedmont Lithium Inc.", "etype": "organization", "subtype": "company"}
+{"entity": "Elon Musk", "etype": "person", "subtype": "person"}
+{"entity": "BYD", "etype": "organization", "subtype": "company"}
+{"entity": "Volkswagen", "etype": "organization", "subtype": "company"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "Hyundai-Kia", "etype": "organization", "subtype": "company"}
+{"entity": "Stellantis", "etype": "organization", "subtype": "company"}
+{"entity": "BMW", "etype": "organization", "subtype": "company"}
+{"entity": "Renault-Nissan-Mitsubishi Alliance", "etype": "organization", "subtype": "company"}
+{"entity": "China", "etype": "location", "subtype": "country"}
+{"entity": "Georgia", "etype": "location", "subtype": "state"}
+{"entity": "China", "etype": "organization", "subtype": "location"}
+{"entity": "Chinese Ministry of Industry and Information Technology", "etype": "organization", "subtype": "organization"}
+{"entity": "Nio", "etype": "organization", "subtype": "company"}
+{"entity": "BYD", "etype": "organization", "subtype": "company"}
+{"entity": "Ford", "etype": "organization", "subtype": "company"}
+{"entity": "GM", "etype": "organization", "subtype": "company"}
+{"entity": "Stellantis", "etype": "organization", "subtype": "company"}
+{"entity": "Leapmotor", "etype": "organization", "subtype": "company"}
+{"entity": "US EV market", "etype": "organization", "subtype": "market"}
+{"entity": "China’s electromobility sector", "etype": "organization", "subtype": "sector"}
+{"entity": "US", "etype": "organization", "subtype": "location"}
+{"entity": "European Union", "etype": "organization", "subtype": "location"}
+{"entity": "Jolt Energy", "etype": "organization", "subtype": "company"}
+{"entity": "Numbat", "etype": "organization", "subtype": "company"}
+{"entity": "Charge Zone", "etype": "organization", "subtype": "company"}
+{"entity": "DeepWay", "etype": "organization", "subtype": "company"}
+{"entity": "Spiro", "etype": "organization", "subtype": "company"}
+{"entity": "Maka Motors", "etype": "organization", "subtype": "company"}
+{"entity": "Volta Indonesia", "etype": "organization", "subtype": "company"}
+{"entity": "Vammo", "etype": "organization", "subtype": "company"}
+{"entity": "Simple Energy India", "etype": "organization", "subtype": "company"}
+{"entity": "Evera", "etype": "organization", "subtype": "company"}
+{"entity": "Zyngo", "etype": "organization", "subtype": "company"}
+{"entity": "Verkor", "etype": "organization", "subtype": "company"}
+{"entity": "Renault", "etype": "organization", "subtype": "company"}
+{"entity": "Northvolt", "etype": "organization", "subtype": "company"}
+{"entity": "Hithium", "etype": "organization", "subtype": "company"}
+{"entity": "Hozon", "etype": "organization", "subtype": "company"}
+{"entity": "Rox Motor", "etype": "organization", "subtype": "company"}
+{"entity": "Hozon Automobile", "etype": "organization", "subtype": "company"}
+{"entity": "Rox Motor", "etype": "organization", "subtype": "company"}
+{"entity": "Avatr", "etype": "organization", "subtype": "company"}
+{"entity": "BluSmart", "etype": "organization", "subtype": "company"}
+{"entity": "Beat", "etype": "organization", "subtype": "company"}
+{"entity": "Free Now", "etype": "organization", "subtype": "company"}
+{"entity": "India", "etype": "organization", "subtype": "location"}
+{"entity": "China", "etype": "organization", "subtype": "location"}
+{"entity": "United States", "etype": "organization", "subtype": "location"}
+{"entity": "FAME", "etype": "organization", "subtype": "policy"}
+{"entity": "WeView", "etype": "organization", "subtype": "company"}
+{"entity": "Noon Energy", "etype": "organization", "subtype": "company"}
+{"entity": "XL Batteries", "etype": "organization", "subtype": "company"}
+{"entity": "VFlow Tech", "etype": "organization", "subtype": "company"}
+{"entity": "Peak Energy", "etype": "organization", "subtype": "company"}
+{"entity": "Inlyte Energy", "etype": "organization", "subtype": "company"}
+{"entity": "Ascend Elements", "etype": "organization", "subtype": "company"}
+{"entity": "Tianneng New Materials", "etype": "organization", "subtype": "company"}
+{"entity": "MECAWARE", "etype": "organization", "subtype": "company"}
+{"entity": "France", "etype": "organization", "subtype": "location"}
+{"entity": "Critical Metals Fund", "etype": "organization", "subtype": "fund"}
+{"entity": "EIT InnoEnergy", "etype": "organization", "subtype": "organization"}
+{"entity": "European Battery Alliance’s Strategic Battery Raw Material Fund", "etype": "organization", "subtype": "fund"}
+{"entity": "Summit Nanotech", "etype": "organization", "subtype": "company"}
+{"entity": "Sustainable Development Technology Canada", "etype": "organization", "subtype": "organization"}
+{"entity": "Natural Resources Canada", "etype": "organization", "subtype": "organization"}
+{"entity": "Kobold Metals", "etype": "organization", "subtype": "company"}
+{"entity": "Energy Exploration Technologies", "etype": "organization", "subtype": "company"}
+{"entity": "GM Ventures", "etype": "organization", "subtype": "organization"}
+{"entity": "Atlas Materials", "etype": "organization", "subtype": "company"}
+{"entity": "US Department of Energy", "etype": "organization", "subtype": "organization"}
+{"entity": "Mercedes-Benz AG", "etype": "organization", "subtype": "company"}
+{"entity": "Ola Källenius", "etype": "person", "subtype": "person"}
+{"entity": "Martin Brudermüller", "etype": "person", "subtype": "person"}
+{"entity": "Mercedes-Benz", "etype": "organization", "subtype": "company"}
+{"entity": "Mercedes-Benz Cars", "etype": "organization", "subtype": "company"}
+{"entity": "Mercedes-Benz Vans", "etype": "organization", "subtype": "company"}
+{"entity": "Mercedes-Benz Mobility", "etype": "organization", "subtype": "company"}
+{"entity": "S-Class", "etype": "product", "subtype": "vehicle model"}
+{"entity": "eSprinter", "etype": "product", "subtype": "vehicle model"}
+{"entity": "eCitan", "etype": "product", "subtype": "vehicle model"}
+{"entity": "eVito", "etype": "product", "subtype": "vehicle model"}
+{"entity": "eVito Tourer", "etype": "product", "subtype": "vehicle model"}
+{"entity": "EQV", "etype": "product", "subtype": "vehicle model"}
+{"entity": "EQT", "etype": "product", "subtype": "vehicle model"}
+{"entity": "United States", "etype": "location", "subtype": "location"}
+{"entity": "Germany", "etype": "location", "subtype": "location"}
+{"entity": "Mercedes-Benz", "etype": "organization", "subtype": "company"}
+{"entity": "Mercedes-Benz Group AG", "etype": "organization", "subtype": "company"}
+{"entity": "US EV market", "etype": "organization", "subtype": "market"}
+{"entity": "FuelEconomy.gov", "etype": "organization", "subtype": "organization"}
+{"entity": "2024 Toyota Corolla Hybrid", "etype": "product", "subtype": "vehicle model"}
+{"entity": "2024 Corolla", "etype": "product", "subtype": "vehicle model"}
+{"entity": "U.S. Government", "etype": "organization", "subtype": "organization"}
+{"entity": "Clean Cities and Communities coalitions", "etype": "organization", "subtype": "organization"}
+{"entity": "medium- and heavy-duty all-electric vehicles", "etype": "product", "subtype": "vehicle model"}
+{"entity": "PHEVs", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Battery Electric Vehicles (BEVs)", "etype": "product", "subtype": "vehicle model"}
+{"entity": "IEA", "etype": "organization", "subtype": "organization"}
+{"entity": "China", "etype": "organization", "subtype": "location"}
+{"entity": "Europe", "etype": "organization", "subtype": "location"}
+{"entity": "NZE Scenario", "etype": "organization", "subtype": "policy"}
+{"entity": "US EV market", "etype": "organization", "subtype": "market"}
+{"entity": "Volkswagen", "etype": "organization", "subtype": "brand"}
+{"entity": "Ampere", "etype": "organization", "subtype": "brand"}
+{"entity": "Togg", "etype": "organization", "subtype": "brand"}
+{"entity": "Toyota", "etype": "organization", "subtype": "brand"}
+{"entity": "Nissan", "etype": "organization", "subtype": "brand"}
+{"entity": "Suzuki", "etype": "organization", "subtype": "group"}
+{"entity": "Subaru", "etype": "organization", "subtype": "group"}
+{"entity": "Hyundai", "etype": "organization", "subtype": "brand"}
+{"entity": "Kia", "etype": "organization", "subtype": "brand"}
+{"entity": "Tata", "etype": "organization", "subtype": "brand"}
+{"entity": "SAIC", "etype": "organization", "subtype": "group"}
+{"entity": "Geely", "etype": "organization", "subtype": "group"}
+{"entity": "Governments", "etype": "organization", "subtype": "organization"}
+{"entity": "IEA", "etype": "organization", "subtype": "organization"}
+{"entity": "Elizabeth Connelly", "etype": "person", "subtype": "person"}
+{"entity": "Ethan Jenness", "etype": "person", "subtype": "person"}
+{"entity": "REE Automotive Ltd.", "etype": "organization", "subtype": "company"}
+{"entity": "Daniel Barel", "etype": "person", "subtype": "person"}
+{"entity": "P7 Modular Platform", "etype": "product", "subtype": "vehicle model"}
+{"entity": "REE", "etype": "organization", "subtype": "company"}
+{"entity": "P7", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Data-as-a-Service capabilities", "etype": "organization", "subtype": "service"}
+{"entity": "J.B. Poindexter", "etype": "person", "subtype": "person"}
+{"entity": "EAVX", "etype": "organization", "subtype": "company"}
+{"entity": "Morgan Olson", "etype": "organization", "subtype": "company"}
+{"entity": "Navya", "etype": "organization", "subtype": "company"}
+{"entity": "American Axle & Manufacturing", "etype": "organization", "subtype": "company"}
+{"entity": "Brembo", "etype": "organization", "subtype": "company"}
+{"entity": "Hitachi America, Ltd.", "etype": "organization", "subtype": "company"}
+{"entity": "Hino Motors", "etype": "organization", "subtype": "company"}
+{"entity": "Toyota Motor Corporation", "etype": "organization", "subtype": "company"}
+{"entity": "REE", "etype": "organization", "subtype": "company"}
+{"entity": "Magna International", "etype": "organization", "subtype": "company"}
+{"entity": "Hitachi America, Ltd", "etype": "organization", "subtype": "company"}
+{"entity": "American Axle & Manufacturing Holdings Inc.", "etype": "organization", "subtype": "company"}
+{"entity": "Brembo", "etype": "organization", "subtype": "company"}
+{"entity": "UK", "etype": "location", "subtype": "location"}
+{"entity": "Coventry, UK", "etype": "location", "subtype": "location"}
+{"entity": "Austin, TX", "etype": "location", "subtype": "location"}
+{"entity": "REE Automotive", "etype": "organization", "subtype": "company"}
+{"entity": "Limor Gruber", "etype": "person", "subtype": "person"}
+{"entity": "Keren Shemesh", "etype": "person", "subtype": "person"}
+{"entity": "REE", "etype": "organization", "subtype": "company"}
+{"entity": "Israel", "etype": "location", "subtype": "country"}
+{"entity": "USA", "etype": "location", "subtype": "country"}
+{"entity": "UK", "etype": "location", "subtype": "country"}
+{"entity": "Germany", "etype": "location", "subtype": "country"}
+{"entity": "Japan", "etype": "location", "subtype": "country"}
+{"entity": "REE", "etype": "organization", "subtype": "company"}
+{"entity": "U.S. Securities and Exchange Commission", "etype": "organization", "subtype": "organization"}
+{"entity": "Israel", "etype": "location", "subtype": "country"}
+{"entity": "UK Engineering Center of Excellence", "etype": "location", "subtype": "location"}
+{"entity": "Kelley Blue Book", "etype": "organization", "subtype": "company"}
+{"entity": "Cox Automotive", "etype": "organization", "subtype": "company"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "Cadillac", "etype": "organization", "subtype": "company"}
+{"entity": "Mercedes", "etype": "organization", "subtype": "company"}
+{"entity": "BMW", "etype": "organization", "subtype": "company"}
+{"entity": "Audi", "etype": "organization", "subtype": "company"}
+{"entity": "Ford", "etype": "organization", "subtype": "company"}
+{"entity": "Vinfast", "etype": "organization", "subtype": "company"}
+{"entity": "Hyundai", "etype": "organization", "subtype": "company"}
+{"entity": "Kia", "etype": "organization", "subtype": "company"}
+{"entity": "Stephanie Valdez Streaty", "etype": "person", "subtype": "person"}
+{"entity": "Lyriq", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Chevy Bolt", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Nikola Corporation", "etype": "organization", "subtype": "company"}
+{"entity": "Michael Lohscheller", "etype": "person", "subtype": "person"}
+{"entity": "Iveco Group", "etype": "organization", "subtype": "company"}
+{"entity": "Inflation Reduction Act", "etype": "organization", "subtype": "policy"}
+{"entity": "California", "etype": "location", "subtype": "state"}
+{"entity": "New York", "etype": "location", "subtype": "state"}
+{"entity": "New Jersey", "etype": "location", "subtype": "state"}
+{"entity": "Colorado", "etype": "location", "subtype": "state"}
+{"entity": "Washington", "etype": "location", "subtype": "state"}
+{"entity": "Buckeye", "etype": "location", "subtype": "city"}
+{"entity": "Nikola Corporation", "etype": "organization", "subtype": "company"}
+{"entity": "Elon Musk", "etype": "person", "subtype": "person"}
+{"entity": "Nikola Tre Hydrogen Fuel Cell Truck", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Nikola Tre Battery Electric Truck", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Coolidge, Arizona", "etype": "location", "subtype": "manufacturing facility"}
+{"entity": "Gamma Hydrogen Fuel Cell Truck", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Nikola Corporation", "etype": "organization", "subtype": "company"}
+{"entity": "Romeo Power, Inc.", "etype": "organization", "subtype": "company"}
+{"entity": "Cox Automotive", "etype": "organization", "subtype": "company"}
+{"entity": "Jonathan Smoke", "etype": "person", "subtype": "person"}
+{"entity": "CADSI", "etype": "organization", "subtype": "organization"}
+{"entity": "US", "etype": "location", "subtype": "location"}
+{"entity": "US EV market", "etype": "organization", "subtype": "market"}
+{"entity": "Political Climate", "etype": "organization", "subtype": "factor"}
+{"entity": "Cox Automotive", "etype": "organization", "subtype": "company"}
+{"entity": "Cox Enterprises Inc.", "etype": "organization", "subtype": "company"}
+{"entity": "Mark Schirmer", "etype": "person", "subtype": "person"}
+{"entity": "Dara Hailes", "etype": "person", "subtype": "person"}
+{"entity": "Zeekr", "etype": "organization", "subtype": "company"}
+{"entity": "Hangzhou-based premium car manufacturer", "etype": "organization", "subtype": "company"}
+{"entity": "Cox Automotive", "etype": "organization", "subtype": "company"}
+{"entity": "Jonathan Smoke", "etype": "person", "subtype": "person"}
+{"entity": "Cox Automotive", "etype": "organization", "subtype": "company"}
+{"entity": "US", "etype": "location", "subtype": "location"}
+{"entity": "Cox Automotive", "etype": "organization", "subtype": "company"}
+{"entity": "Cox Enterprises Inc.", "etype": "organization", "subtype": "company"}
+{"entity": "Atlanta", "etype": "location", "subtype": "city"}
+{"entity": "Mark Schirmer", "etype": "person", "subtype": "person"}
+{"entity": "Dara Hailes", "etype": "person", "subtype": "person"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "Biden administration", "etype": "organization", "subtype": "organization"}
+{"entity": "United States", "etype": "location", "subtype": "country"}
+{"entity": "Nikola", "etype": "organization", "subtype": "company"}
+{"entity": "NIO", "etype": "organization", "subtype": "company"}
+{"entity": "Workhorse", "etype": "organization", "subtype": "company"}
+{"entity": "Hyliion", "etype": "organization", "subtype": "company"}
+{"entity": "QuantumScape", "etype": "organization", "subtype": "company"}
+{"entity": "Robinhood", "etype": "organization", "subtype": "company"}
+{"entity": "US", "etype": "organization", "subtype": "government"}
+{"entity": "China", "etype": "organization", "subtype": "country"}
+{"entity": "Joe Biden", "etype": "person", "subtype": "person"}
+{"entity": "Gina Raimondo", "etype": "person", "subtype": "person"}
+{"entity": "Janet Yellen", "etype": "person", "subtype": "person"}
+{"entity": "Inflation Reduction Act", "etype": "organization", "subtype": "policy"}
+{"entity": "China", "etype": "organization", "subtype": "country"}
+{"entity": "United States", "etype": "organization", "subtype": "country"}
+{"entity": "Centre for Strategic and International Studies", "etype": "organization", "subtype": "think-tank"}
+{"entity": "Microvast", "etype": "organization", "subtype": "company"}
+{"entity": "Ford", "etype": "organization", "subtype": "company"}
+{"entity": "CATL", "etype": "organization", "subtype": "company"}
+{"entity": "Inflation Reduction Act", "etype": "organization", "subtype": "policy"}
+{"entity": "Michigan state government", "etype": "organization", "subtype": "organization"}
+{"entity": "Virginia", "etype": "organization", "subtype": "organization"}
+{"entity": "China", "etype": "organization", "subtype": "country"}
+{"entity": "EIU", "etype": "organization", "subtype": "organization"}
+{"entity": "Krane Funds Advisors, LLC", "etype": "organization", "subtype": "company"}
+{"entity": "KraneShares ETFs", "etype": "organization", "subtype": "organization"}
+{"entity": "China", "etype": "organization", "subtype": "location"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "Li Auto", "etype": "organization", "subtype": "company"}
+{"entity": "Xpeng", "etype": "organization", "subtype": "company"}
+{"entity": "Rivian", "etype": "organization", "subtype": "company"}
+{"entity": "Ford", "etype": "organization", "subtype": "company"}
+{"entity": "GM", "etype": "organization", "subtype": "company"}
+{"entity": "BYD", "etype": "organization", "subtype": "company"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "Alibaba", "etype": "organization", "subtype": "company"}
+{"entity": "Tencent", "etype": "organization", "subtype": "company"}
+{"entity": "JD.com", "etype": "organization", "subtype": "company"}
+{"entity": "LONGi", "etype": "organization", "subtype": "company"}
+{"entity": "Inflation Reduction Act", "etype": "organization", "subtype": "policy"}
+{"entity": "China", "etype": "location", "subtype": "country"}
+{"entity": "US", "etype": "location", "subtype": "country"}
+{"entity": "KraneShares Electric Vehicles & Future Mobility Index ETF", "etype": "organization", "subtype": "organization"}
+{"entity": "Bloomberg New Energy Finance", "etype": "organization", "subtype": "organization"}
+{"entity": "Lithium-Ion Phosphate (LFP)", "etype": "product", "subtype": "battery technology"}
+{"entity": "Ford", "etype": "product", "subtype": "automaker"}
+{"entity": "Rivian", "etype": "product", "subtype": "automaker"}
+{"entity": "Fisker", "etype": "organization", "subtype": "company"}
+{"entity": "Hyundai", "etype": "organization", "subtype": "company"}
+{"entity": "GM", "etype": "organization", "subtype": "company"}
+{"entity": "Georgia", "etype": "location", "subtype": "state"}
+{"entity": "Ohio", "etype": "location", "subtype": "state"}
+{"entity": "Michigan", "etype": "location", "subtype": "state"}
+{"entity": "Inflation Reduction Act", "etype": "organization", "subtype": "policy"}
+{"entity": "KARS", "etype": "organization", "subtype": "company"}
+{"entity": "SEI Investments Distribution Company", "etype": "organization", "subtype": "company"}
+{"entity": "Krane Funds Advisors, LLC", "etype": "organization", "subtype": "company"}
+{"entity": "Oaks, PA", "etype": "location", "subtype": "location"}
+{"entity": "Joint Office of Energy and Transportation", "etype": "organization", "subtype": "government organization"}
+{"entity": "Joint Office", "etype": "organization", "subtype": "organization"}
+{"entity": "National Charging Experience Consortium", "etype": "organization", "subtype": "organization"}
+{"entity": "Electric Vehicle Working Group", "etype": "organization", "subtype": "organization"}
+{"entity": "National Zero-Emission Freight Corridor Strategy", "etype": "organization", "subtype": "policy"}
+{"entity": "Deloitte", "etype": "organization", "subtype": "company"}
+{"entity": "United States", "etype": "location", "subtype": "location"}
+{"entity": "battery electric and plug-in hybrid electric cars", "etype": "product", "subtype": "vehicle model"}
+{"entity": "United Kingdom", "etype": "location", "subtype": "location"}
+{"entity": "BEV and PHEV", "etype": "organization", "subtype": "product"}
+{"entity": "Deloitte", "etype": "organization", "subtype": "company"}
+{"entity": "Norway", "etype": "organization", "subtype": "location"}
+{"entity": "United Kingdom", "etype": "organization", "subtype": "location"}
+{"entity": "Germany", "etype": "organization", "subtype": "location"}
+{"entity": "China", "etype": "organization", "subtype": "location"}
+{"entity": "China", "etype": "location", "subtype": "location"}
+{"entity": "United States", "etype": "location", "subtype": "location"}
+{"entity": "Deloitte", "etype": "organization", "subtype": "company"}
+{"entity": "Tesla Model 3", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Deloitte", "etype": "organization", "subtype": "company"}
+{"entity": "China", "etype": "location", "subtype": "country"}
+{"entity": "Europe", "etype": "location", "subtype": "region"}
+{"entity": "United States", "etype": "location", "subtype": "country"}
+{"entity": "Germany", "etype": "organization", "subtype": "country"}
+{"entity": "China", "etype": "organization", "subtype": "country"}
+{"entity": "Deloitte", "etype": "organization", "subtype": "company"}
+{"entity": "Paris Agreement", "etype": "organization", "subtype": "policy"}
+{"entity": "European Federation for Transport and Environment", "etype": "organization", "subtype": "organization"}
+{"entity": "IHS Markit", "etype": "organization", "subtype": "organization"}
+{"entity": "Deloitte", "etype": "organization", "subtype": "organization"}
+{"entity": "Deloitte", "etype": "organization", "subtype": "company"}
+{"entity": "China", "etype": "location", "subtype": "country"}
+{"entity": "United Kingdom", "etype": "location", "subtype": "country"}
+{"entity": "Joint Office of Energy and Transportation", "etype": "organization", "subtype": "organization"}
+{"entity": "U.S. government", "etype": "organization", "subtype": "organization"}
+{"entity": "Joint Office", "etype": "organization", "subtype": "organization"}
+{"entity": "National Charging Experience Consortium", "etype": "organization", "subtype": "organization"}
+{"entity": "Electric Vehicle Working Group", "etype": "organization", "subtype": "organization"}
+{"entity": "National Renewable Energy Laboratory", "etype": "organization", "subtype": "organization"}
+{"entity": "Toyota Corolla Hybrid", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Toyota Corolla", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Cox Automotive", "etype": "organization", "subtype": "company"}
+{"entity": "Kelley Blue Book", "etype": "organization", "subtype": "company"}
+{"entity": "Hyundai Ioniq5", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Tesla Model Y", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "BMW", "etype": "organization", "subtype": "company"}
+{"entity": "Mercedes-Benz", "etype": "organization", "subtype": "company"}
+{"entity": "Audi", "etype": "organization", "subtype": "company"}
+{"entity": "Volkswagen", "etype": "organization", "subtype": "company"}
+{"entity": "Chevy", "etype": "organization", "subtype": "company"}
+{"entity": "Ford", "etype": "organization", "subtype": "company"}
+{"entity": "Rivian", "etype": "organization", "subtype": "company"}
+{"entity": "Kelley Blue Book", "etype": "organization", "subtype": "organization"}
+{"entity": "Hyundai", "etype": "organization", "subtype": "company"}
+{"entity": "Kia", "etype": "organization", "subtype": "company"}
+{"entity": "McKinsey", "etype": "person", "subtype": "organization"}
+{"entity": "Model Y", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Model 3", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Bolt EV", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Mustang Mach-E", "etype": "product", "subtype": "vehicle model"}
+{"entity": "F-150 Lightning", "etype": "product", "subtype": "vehicle model"}
+{"entity": "R1S", "etype": "product", "subtype": "vehicle model"}
+{"entity": "US", "etype": "location", "subtype": "location"}
+{"entity": "Germany", "etype": "location", "subtype": "location"}
+{"entity": "China", "etype": "location", "subtype": "location"}
+{"entity": "Europe", "etype": "location", "subtype": "location"}
+{"entity": "Inflation Reduction Act", "etype": "organization", "subtype": "policy"}
+{"entity": "S&P Global Mobility", "etype": "organization", "subtype": "organization"}
+{"entity": "US Department of Energy", "etype": "organization", "subtype": "organization"}
+{"entity": "ChargePoint", "etype": "organization", "subtype": "company"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "Blink", "etype": "organization", "subtype": "company"}
+{"entity": "Electrify America", "etype": "organization", "subtype": "company"}
+{"entity": "EV Connect", "etype": "organization", "subtype": "company"}
+{"entity": "SemaConnect", "etype": "person", "subtype": "organization"}
+{"entity": "Donald Trump", "etype": "person", "subtype": "person"}
+{"entity": "Biden administration", "etype": "organization", "subtype": "organization"}
+{"entity": "Green New Deal", "etype": "organization", "subtype": "policy"}
+{"entity": "EcoPro BM", "etype": "organization", "subtype": "company"}
+{"entity": "EcoPro", "etype": "organization", "subtype": "company"}
+{"entity": "Enchem", "etype": "organization", "subtype": "company"}
+{"entity": "LG Energy Solution", "etype": "organization", "subtype": "company"}
+{"entity": "Citi Research", "etype": "organization", "subtype": "organization"}
+{"entity": "Itay Michaeli", "etype": "person", "subtype": "person"}
+{"entity": "Inflation Reduction Act", "etype": "organization", "subtype": "policy"}
+{"entity": "Citi Global Insights", "etype": "organization", "subtype": "organization"}
+{"entity": "Velocity", "etype": "organization", "subtype": "organization"}
+{"entity": "US EV market", "etype": "organization", "subtype": "market"}
+{"entity": "IDTechEx", "etype": "organization", "subtype": "organization"}
+{"entity": "Germany", "etype": "location", "subtype": "location"}
+{"entity": "ACC", "etype": "organization", "subtype": "organization"}
+{"entity": "IDTechEx", "etype": "organization", "subtype": "organization"}
+{"entity": "Automotive Cells Company", "etype": "organization", "subtype": "company"}
+{"entity": "Cox Automotive", "etype": "organization", "subtype": "company"}
+{"entity": "Doug Eroh", "etype": "person", "subtype": "person"}
+{"entity": "Longo Toyota", "etype": "organization", "subtype": "company"}
+{"entity": "Japan", "etype": "organization", "subtype": "country"}
+{"entity": "2025 Ioniq 5 N", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "General Motors", "etype": "organization", "subtype": "company"}
+{"entity": "Ford", "etype": "organization", "subtype": "company"}
+{"entity": "Elizabeth Krear", "etype": "person", "subtype": "person"}
+{"entity": "Ashley Nunes", "etype": "person", "subtype": "person"}
+{"entity": "J.D. Power", "etype": "organization", "subtype": "organization"}
+{"entity": "Harvard Law School", "etype": "organization", "subtype": "organization"}
+{"entity": "US EV market", "etype": "organization", "subtype": "market"}
+{"entity": "Federal Subsidy", "etype": "organization", "subtype": "policy"}
+{"entity": "J.D. Power", "etype": "organization", "subtype": "company"}
+{"entity": "Nunes", "etype": "person", "subtype": "person"}
+{"entity": "Krear", "etype": "person", "subtype": "person"}
+{"entity": "San Francisco Bay Area", "etype": "location", "subtype": "location"}
+{"entity": "Krear", "etype": "person", "subtype": "person"}
+{"entity": "Biden administration", "etype": "organization", "subtype": "organization"}
+{"entity": "United Auto Workers (UAW)", "etype": "organization", "subtype": "organization"}
+{"entity": "GM", "etype": "organization", "subtype": "company"}
+{"entity": "Ford", "etype": "organization", "subtype": "company"}
+{"entity": "Stellantis", "etype": "organization", "subtype": "company"}
+{"entity": "Alliance for Automotive Innovation", "etype": "organization", "subtype": "organization"}
+{"entity": "U.S. Environmental Protection Agency", "etype": "organization", "subtype": "organization"}
+{"entity": "California", "etype": "organization", "subtype": "location"}
+{"entity": "Ford", "etype": "organization", "subtype": "company"}
+{"entity": "General Motors", "etype": "organization", "subtype": "company"}
+{"entity": "Hyundai", "etype": "organization", "subtype": "company"}
+{"entity": "Kia", "etype": "organization", "subtype": "company"}
+{"entity": "BMW", "etype": "organization", "subtype": "company"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "Volkswagen", "etype": "organization", "subtype": "company"}
+{"entity": "Toyota", "etype": "organization", "subtype": "company"}
+{"entity": "Stellantis", "etype": "organization", "subtype": "company"}
+{"entity": "Peter Slowik", "etype": "person", "subtype": "person"}
+{"entity": "Aaron Isenstadt", "etype": "person", "subtype": "person"}
+{"entity": "Inflation Reduction Act", "etype": "organization", "subtype": "policy"}
+{"entity": "Consumer Reports", "etype": "organization", "subtype": "organization"}
+{"entity": "Peter Slowik", "etype": "person", "subtype": "person"}
+{"entity": "Aaron Isenstadt", "etype": "person", "subtype": "person"}
+{"entity": "Nationwide", "etype": "organization", "subtype": "company"}
+{"entity": "Inflation Reduction Act", "etype": "organization", "subtype": "policy"}
+{"entity": "U.S.", "etype": "location", "subtype": "country"}
+{"entity": "United Automobile Workers", "etype": "organization", "subtype": "organization"}
+{"entity": "Nationwide", "etype": "organization", "subtype": "organization"}
+{"entity": "Nationwide Investment Services Corporation", "etype": "organization", "subtype": "company"}
+{"entity": "Nationwide Mutual Insurance Company", "etype": "organization", "subtype": "company"}
+{"entity": "One Nationwide Plaza, Columbus, OH", "etype": "location", "subtype": "location"}
+{"entity": "Tim Stevens", "etype": "person", "subtype": "writer"}
+{"entity": "Ryan Lugo", "etype": "person", "subtype": "illustrator"}
+{"entity": "Donald Trump", "etype": "person", "subtype": "person"}
+{"entity": "J.D. Vance", "etype": "person", "subtype": "person"}
+{"entity": "GOP", "etype": "organization", "subtype": "political party"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "AAA", "etype": "organization", "subtype": "organization"}
+{"entity": "U.S.", "etype": "location", "subtype": "location"}
+{"entity": "Hyundai", "etype": "organization", "subtype": "company"}
+{"entity": "Ioniq 6", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Elantra", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Utah", "etype": "location", "subtype": "location"}
+{"entity": "Biden administration", "etype": "organization", "subtype": "organization"}
+{"entity": "Champlain Hudson Power Express", "etype": "organization", "subtype": "project"}
+{"entity": "Trump", "etype": "person", "subtype": "person"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "General Motors", "etype": "organization", "subtype": "company"}
+{"entity": "Elon Musk", "etype": "person", "subtype": "person"}
+{"entity": "Donald Trump", "etype": "person", "subtype": "person"}
+{"entity": "Scout Motors", "etype": "organization", "subtype": "company"}
+{"entity": "Volvo", "etype": "organization", "subtype": "company"}
+{"entity": "Honda", "etype": "organization", "subtype": "company"}
+{"entity": "Redwood Materials", "etype": "organization", "subtype": "company"}
+{"entity": "Tim Scott", "etype": "person", "subtype": "person"}
+{"entity": "Tim Stevens", "etype": "person", "subtype": "person"}
+{"entity": "EX90", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Lucid Air Sapphire", "etype": "product", "subtype": "vehicle model"}
+{"entity": "South Carolina", "etype": "location", "subtype": "location"}
+{"entity": "Ohio", "etype": "location", "subtype": "location"}
+{"entity": "Kantar", "etype": "organization", "subtype": "organization"}
+{"entity": "BloombergNEF", "etype": "organization", "subtype": "organization"}
+{"entity": "US", "etype": "location", "subtype": "location"}
+{"entity": "UK", "etype": "location", "subtype": "location"}
+{"entity": "Germany", "etype": "location", "subtype": "location"}
+{"entity": "Singapore", "etype": "location", "subtype": "location"}
+{"entity": "Singapore", "etype": "organization", "subtype": "location"}
+{"entity": "Germany", "etype": "organization", "subtype": "location"}
+{"entity": "UK", "etype": "organization", "subtype": "location"}
+{"entity": "US", "etype": "organization", "subtype": "location"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "Ford", "etype": "organization", "subtype": "company"}
+{"entity": "BMW", "etype": "organization", "subtype": "company"}
+{"entity": "Kantar", "etype": "organization", "subtype": "organization"}
+{"entity": "US EV market", "etype": "organization", "subtype": "market"}
+{"entity": "US", "etype": "location", "subtype": "country"}
+{"entity": "UK", "etype": "location", "subtype": "country"}
+{"entity": "Germany", "etype": "location", "subtype": "country"}
+{"entity": "Singapore", "etype": "location", "subtype": "country"}
+{"entity": "U.S. Energy Information Administration", "etype": "organization", "subtype": "organization"}
+{"entity": "Goldman Sachs", "etype": "organization", "subtype": "company"}
+{"entity": "Kota Yuzawa", "etype": "person", "subtype": "person"}
+{"entity": "hybrids (HEVs)", "etype": "product", "subtype": "vehicle model"}
+{"entity": "plug-in hybrids (PHEVs)", "etype": "product", "subtype": "vehicle model"}
+{"entity": "US", "etype": "location", "subtype": "location"}
+{"entity": "China", "etype": "location", "subtype": "location"}
+{"entity": "Goldman Sachs", "etype": "organization", "subtype": "company"}
+{"entity": "Southeast Asia", "etype": "location", "subtype": "location"}
+{"entity": "Solar Energy Industries Association", "etype": "organization", "subtype": "organization"}
+{"entity": "SEIA", "etype": "organization", "subtype": "organization"}
+{"entity": "Abigail Ross Hopper", "etype": "person", "subtype": "person"}
+{"entity": "California", "etype": "organization", "subtype": "location"}
+{"entity": "Texas", "etype": "organization", "subtype": "location"}
+{"entity": "Puerto Rico", "etype": "organization", "subtype": "location"}
+{"entity": "SEIA", "etype": "organization", "subtype": "organization"}
+{"entity": "Solar Energy Industries Association", "etype": "organization", "subtype": "organization"}
+{"entity": "Inflation Reduction Act", "etype": "organization", "subtype": "policy"}
+{"entity": "U.S.", "etype": "location", "subtype": "location"}
+{"entity": "Washington, D.C.", "etype": "location", "subtype": "location"}
+{"entity": "Meta", "etype": "organization", "subtype": "company"}
+{"entity": "Amazon", "etype": "organization", "subtype": "company"}
+{"entity": "Google", "etype": "organization", "subtype": "company"}
+{"entity": "Apple", "etype": "organization", "subtype": "company"}
+{"entity": "Walmart", "etype": "organization", "subtype": "company"}
+{"entity": "People's Republic of China", "etype": "organization", "subtype": "country"}
+{"entity": "US", "etype": "organization", "subtype": "country"}
+{"entity": "Joe Biden", "etype": "person", "subtype": "person"}
+{"entity": "Bureau of Industry and Security", "etype": "organization", "subtype": "government agency"}
+{"entity": "Department of Homeland Security", "etype": "organization", "subtype": "organization"}
+{"entity": "UFLPA Entity List", "etype": "organization", "subtype": "policy"}
+{"entity": "Joe Biden", "etype": "person", "subtype": "person"}
+{"entity": "Xi Jinping", "etype": "person", "subtype": "person"}
+{"entity": "Donald Trump", "etype": "person", "subtype": "person"}
+{"entity": "US-China Economic and Security Review Commission", "etype": "organization", "subtype": "organization"}
+{"entity": "US Treasury Department", "etype": "organization", "subtype": "organization"}
+{"entity": "U.S. Department of Homeland Security", "etype": "organization", "subtype": "organization"}
+{"entity": "U.S. Department of the Treasury", "etype": "organization", "subtype": "organization"}
+{"entity": "Office of Foreign Assets Control", "etype": "organization", "subtype": "organization"}
+{"entity": "Office of the United States Trade Representative", "etype": "organization", "subtype": "organization"}
+{"entity": "Uyghur Forced Labor Prevention Act", "etype": "organization", "subtype": "policy"}
+{"entity": "Shenzhen Boyu Imports and Exports Co., Ltd.", "etype": "organization", "subtype": "company"}
+{"entity": "Shenzhen Jinghon Electronics Limited", "etype": "organization", "subtype": "company"}
+{"entity": "United States", "etype": "location", "subtype": "country"}
+{"entity": "China’s Ministry of Commerce", "etype": "organization", "subtype": "government organization"}
+{"entity": "USTR", "etype": "organization", "subtype": "organization"}
+{"entity": "Mao Ning", "etype": "person", "subtype": "person"}
+{"entity": "US House of Representatives", "etype": "organization", "subtype": "legislative body"}
+{"entity": "Biosecure Act", "etype": "organization", "subtype": "policy"}
+{"entity": "Countering CCP Drones Act", "etype": "organization", "subtype": "policy"}
+{"entity": "Decoupling From Foreign Adversarial Battery Dependence Act", "etype": "organization", "subtype": "policy"}
+{"entity": "DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act", "etype": "organization", "subtype": "policy"}
+{"entity": "US Department of Commerce", "etype": "organization", "subtype": "government organization"}
+{"entity": "Bureau of Industry and Security", "etype": "organization", "subtype": "government organization"}
+{"entity": "HK Economic and Trade Office Certification Act", "etype": "organization", "subtype": "policy"}
+{"entity": "John Podesta", "etype": "person", "subtype": "person"}
+{"entity": "Liu Zhenmin", "etype": "person", "subtype": "person"}
+{"entity": "Jake Sullivan", "etype": "person", "subtype": "person"}
+{"entity": "Xi Jinping", "etype": "person", "subtype": "person"}
+{"entity": "Wang Yi", "etype": "person", "subtype": "person"}
+{"entity": "Biden Administration", "etype": "organization", "subtype": "organization"}
+{"entity": "US State Department", "etype": "organization", "subtype": "organization"}
+{"entity": "White House", "etype": "organization", "subtype": "organization"}
+{"entity": "Ministry of Foreign Affairs of China", "etype": "organization", "subtype": "organization"}
+{"entity": "China", "etype": "organization", "subtype": "country"}
+{"entity": "US", "etype": "organization", "subtype": "country"}
+{"entity": "US Department of State", "etype": "organization", "subtype": "government agency"}
+{"entity": "Chinese Ministry of Foreign Affairs", "etype": "organization", "subtype": "government agency"}
+{"entity": "Antony Blinken", "etype": "person", "subtype": "person"}
+{"entity": "Wang Yi", "etype": "person", "subtype": "person"}
+{"entity": "National Defense Authorization Act", "etype": "organization", "subtype": "policy"}
+{"entity": "Countering CCP Drones Act", "etype": "organization", "subtype": "policy"}
+{"entity": "Countering CCP 3 Drones and Supporting Drones for Law Enforcement Act", "etype": "organization", "subtype": "policy"}
+{"entity": "DJI", "etype": "organization", "subtype": "company"}
+{"entity": "Autel Robotics", "etype": "organization", "subtype": "company"}
+{"entity": "Vientiane", "etype": "location", "subtype": "city"}
+{"entity": "Laos", "etype": "location", "subtype": "country"}
+{"entity": "China’s Ministry of Commerce", "etype": "organization", "subtype": "organization"}
+{"entity": "World Trade Organization", "etype": "organization", "subtype": "organization"}
+{"entity": "Inflation Reduction Act", "etype": "organization", "subtype": "policy"}
+{"entity": "Biden", "etype": "organization", "subtype": "person"}
+{"entity": "US Treasury", "etype": "organization", "subtype": "organization"}
+{"entity": "China", "etype": "organization", "subtype": "location"}
+{"entity": "Chinese companies", "etype": "organization", "subtype": "organization"}
+{"entity": "Lloyd Austin", "etype": "person", "subtype": "person"}
+{"entity": "Admiral Dong Jun", "etype": "person", "subtype": "person"}
+{"entity": "China", "etype": "organization", "subtype": "country"}
+{"entity": "CATL", "etype": "organization", "subtype": "company"}
+{"entity": "FDB", "etype": "organization", "subtype": "company"}
+{"entity": "Chinese Government", "etype": "organization", "subtype": "government"}
+{"entity": "China", "etype": "organization", "subtype": "country"}
+{"entity": "BYD", "etype": "organization", "subtype": "company"}
+{"entity": "Li Auto", "etype": "organization", "subtype": "company"}
+{"entity": "Xiaomi", "etype": "organization", "subtype": "company"}
+{"entity": "Australian Strategic Policy Institute (ASPI)", "etype": "organization", "subtype": "organization"}
+{"entity": "BYD", "etype": "organization", "subtype": "company"}
+{"entity": "Li Auto", "etype": "organization", "subtype": "company"}
+{"entity": "Xiaomi", "etype": "organization", "subtype": "company"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "BMW", "etype": "organization", "subtype": "company"}
+{"entity": "Organization for Economic Cooperation and Development", "etype": "organization", "subtype": "organization"}
+{"entity": "United States", "etype": "organization", "subtype": "location"}
+{"entity": "European Union", "etype": "organization", "subtype": "location"}
+{"entity": "Alliance for Automotive Manufacturing", "etype": "organization", "subtype": "organization"}
+{"entity": "Smith Richardson Foundation", "etype": "organization", "subtype": "organization"}
+{"entity": "Information Technology and Innovation Foundation", "etype": "organization", "subtype": "organization"}
+{"entity": "Congress", "etype": "organization", "subtype": "government"}
+{"entity": "University of Texas", "etype": "organization", "subtype": "institution"}
+{"entity": "Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976", "etype": "organization", "subtype": "policy"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "Rivian", "etype": "organization", "subtype": "company"}
+{"entity": "Lucid Technology", "etype": "organization", "subtype": "company"}
+{"entity": "Ford", "etype": "organization", "subtype": "company"}
+{"entity": "General Motors", "etype": "organization", "subtype": "company"}
+{"entity": "Mary Barra", "etype": "person", "subtype": "person"}
+{"entity": "QuantumScape", "etype": "organization", "subtype": "company"}
+{"entity": "Factorial Energy", "etype": "organization", "subtype": "company"}
+{"entity": "Solid Power", "etype": "organization", "subtype": "company"}
+{"entity": "LG", "etype": "organization", "subtype": "company"}
+{"entity": "SK", "etype": "organization", "subtype": "company"}
+{"entity": "United States", "etype": "location", "subtype": "country"}
+{"entity": "China", "etype": "location", "subtype": "country"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "BYD", "etype": "organization", "subtype": "company"}
+{"entity": "GAC Aion", "etype": "organization", "subtype": "company"}
+{"entity": "SAIC-GM-Wuling", "etype": "organization", "subtype": "company"}
+{"entity": "Volkswagen", "etype": "organization", "subtype": "company"}
+{"entity": "Li Auto", "etype": "organization", "subtype": "company"}
+{"entity": "BMW", "etype": "organization", "subtype": "company"}
+{"entity": "Mercedes-Benz", "etype": "organization", "subtype": "company"}
+{"entity": "Volvo", "etype": "organization", "subtype": "company"}
+{"entity": "CATL", "etype": "organization", "subtype": "company"}
+{"entity": "FDB", "etype": "organization", "subtype": "company"}
+{"entity": "LG Energy", "etype": "organization", "subtype": "company"}
+{"entity": "Panasonic", "etype": "organization", "subtype": "company"}
+{"entity": "U.S. National Science Foundation (NSF)", "etype": "organization", "subtype": "organization"}
+{"entity": "United States", "etype": "organization", "subtype": "country"}
+{"entity": "European Union", "etype": "organization", "subtype": "organization"}
+{"entity": "China", "etype": "organization", "subtype": "country"}
+{"entity": "Germany", "etype": "organization", "subtype": "country"}
+{"entity": "Japan", "etype": "organization", "subtype": "country"}
+{"entity": "BYD", "etype": "organization", "subtype": "company"}
+{"entity": "Michael Dunne", "etype": "person", "subtype": "person"}
+{"entity": "BYD Explorer 1", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "CATL", "etype": "organization", "subtype": "company"}
+{"entity": "Ford", "etype": "organization", "subtype": "company"}
+{"entity": "GM", "etype": "organization", "subtype": "company"}
+{"entity": "BMW", "etype": "organization", "subtype": "company"}
+{"entity": "Zeyi Yang", "etype": "person", "subtype": "person"}
+{"entity": "Max Reid", "etype": "person", "subtype": "person"}
+{"entity": "Gotion High-Tech Co.", "etype": "organization", "subtype": "company"}
+{"entity": "Volkswagen", "etype": "organization", "subtype": "company"}
+{"entity": "lithium-iron-manganese phosphate (LFMP) battery", "etype": "product", "subtype": "vehicle battery"}
+{"entity": "Pew Research Center", "etype": "organization", "subtype": "organization"}
+{"entity": "President Joe Biden", "etype": "organization", "subtype": "person"}
+{"entity": "Pew Research Center", "etype": "organization", "subtype": "organization"}
+{"entity": "Delta Air Lines", "etype": "organization", "subtype": "company"}
+{"entity": "Nancy Chester", "etype": "person", "subtype": "person"}
+{"entity": "Amy Dalton", "etype": "person", "subtype": "person"}
+{"entity": "American Airlines", "etype": "organization", "subtype": "company"}
+{"entity": "Alaska Airlines", "etype": "organization", "subtype": "company"}
+{"entity": "Taylor Putnam", "etype": "person", "subtype": "person"}
+{"entity": "The Guardian", "etype": "organization", "subtype": "company"}
+{"entity": "Emilie Harkin", "etype": "person", "subtype": "person"}
+{"entity": "United Airlines", "etype": "organization", "subtype": "company"}
+{"entity": "Jay Fulmer", "etype": "person", "subtype": "person"}
+{"entity": "Amex GBT", "etype": "organization", "subtype": "company"}
+{"entity": "BCD", "etype": "organization", "subtype": "company"}
+{"entity": "Aero Crew Solutions", "etype": "organization", "subtype": "company"}
+{"entity": "Amir Eylon", "etype": "person", "subtype": "person"}
+{"entity": "Longwoods International", "etype": "organization", "subtype": "organization"}
+{"entity": "Miles Partnership", "etype": "organization", "subtype": "organization"}
+{"entity": "Cox Automotive", "etype": "organization", "subtype": "company"}
+{"entity": "Jonathan Smoke", "etype": "person", "subtype": "person"}
+{"entity": "Atlanta", "etype": "location", "subtype": "location"}
+{"entity": "US EV Market", "etype": "organization", "subtype": "market"}
+{"entity": "franchised dealers", "etype": "organization", "subtype": "organization"}
+{"entity": "independent dealers", "etype": "organization", "subtype": "organization"}
+{"entity": "Cox Automotive", "etype": "organization", "subtype": "company"}
+{"entity": "Mark Schirmer", "etype": "person", "subtype": "person"}
+{"entity": "Dara Hailes", "etype": "person", "subtype": "person"}
+{"entity": "PwC", "etype": "organization", "subtype": "company"}
+{"entity": "Inflation Reduction Act", "etype": "organization", "subtype": "policy"}
+{"entity": "Infrastructure Investment and Jobs Act", "etype": "organization", "subtype": "policy"}
+{"entity": "California", "etype": "location", "subtype": "location"}
+{"entity": "US", "etype": "location", "subtype": "location"}
+{"entity": "2021 Infrastructure Investment and Jobs Act", "etype": "organization", "subtype": "policy"}
+{"entity": "Inflation Reduction Act", "etype": "organization", "subtype": "policy"}
+{"entity": "Joe Biden", "etype": "person", "subtype": "person"}
+{"entity": "New York", "etype": "location", "subtype": "location"}
+{"entity": "California", "etype": "location", "subtype": "location"}
+{"entity": "Central Hudson EV Make-Ready program", "etype": "organization", "subtype": "program"}
+{"entity": "Bay Area Quality Management District’s Charge! Program", "etype": "organization", "subtype": "program"}
+{"entity": "PSE&G", "etype": "organization", "subtype": "company"}
+{"entity": "PwC", "etype": "organization", "subtype": "company"}
+{"entity": "Akshay Singh", "etype": "person", "subtype": "person"}
+{"entity": "Anand Manthena", "etype": "person", "subtype": "person"}
+{"entity": "Citi Research", "etype": "organization", "subtype": "organization"}
+{"entity": "Itay Michaeli", "etype": "person", "subtype": "person"}
+{"entity": "Electric Vehicles", "etype": "organization", "subtype": "product"}
+{"entity": "Inflation Reduction Act", "etype": "organization", "subtype": "policy"}
+{"entity": "Velocity", "etype": "organization", "subtype": "organization"}
+{"entity": "Citi Global Insights", "etype": "organization", "subtype": "organization"}
+{"entity": "Test Company", "etype": "organization", "subtype": "company"}
+{"entity": "U.S.", "etype": "location", "subtype": "location"}
+{"entity": "China", "etype": "location", "subtype": "location"}
+{"entity": "Europe", "etype": "location", "subtype": "location"}
+{"entity": "Japan", "etype": "location", "subtype": "location"}
+{"entity": "India", "etype": "location", "subtype": "location"}
+{"entity": "Taiwan", "etype": "location", "subtype": "location"}
+{"entity": "European Central Bank", "etype": "organization", "subtype": "organization"}
+{"entity": "iShares", "etype": "organization", "subtype": "company"}
+{"entity": "Kristy Akullian", "etype": "person", "subtype": "person"}
+{"entity": "U.S. Bank", "etype": "organization", "subtype": "company"}
+{"entity": "Rob Haworth", "etype": "person", "subtype": "person"}
+{"entity": "U.S.", "etype": "location", "subtype": "location"}
+{"entity": "OPEC+", "etype": "location", "subtype": "organization"}
+{"entity": "U.S. Bank Asset Management", "etype": "organization", "subtype": "company"}
+{"entity": "Rob Haworth", "etype": "person", "subtype": "person"}
+{"entity": "U.S.", "etype": "location", "subtype": "country"}
+{"entity": "S&P 500 Energy Index", "etype": "organization", "subtype": "index"}
+{"entity": "U.S. Bank", "etype": "organization", "subtype": "company"}
+{"entity": "U.S. Bancorp Investments, Inc.", "etype": "organization", "subtype": "company"}
+{"entity": "U.S. Bank National Association", "etype": "organization", "subtype": "company"}
+{"entity": "EY", "etype": "organization", "subtype": "company"}
+{"entity": "Dr. Joost Smits", "etype": "person", "subtype": "person"}
+{"entity": "Bridget Walsh", "etype": "person", "subtype": "person"}
+{"entity": "Morgan Malone", "etype": "person", "subtype": "person"}
+{"entity": "Vellayan Subbiah", "etype": "person", "subtype": "person"}
+{"entity": "Eric J. Minuskin", "etype": "person", "subtype": "person"}
+{"entity": "Michael Curtis", "etype": "person", "subtype": "person"}
+{"entity": "Biden Administration", "etype": "organization", "subtype": "organization"}
+{"entity": "US EV market", "etype": "organization", "subtype": "market"}
+{"entity": "US EV market", "etype": "organization", "subtype": "market"}
+{"entity": "European Commission", "etype": "organization", "subtype": "organization"}
+{"entity": "Biden’s administration", "etype": "organization", "subtype": "organization"}
+{"entity": "EY", "etype": "organization", "subtype": "organization"}
+{"entity": "United States", "etype": "organization", "subtype": "country"}
+{"entity": "European Commission", "etype": "organization", "subtype": "organization"}
+{"entity": "California", "etype": "location", "subtype": "state"}
+{"entity": "West Coast Clean Transit Corridor initiative", "etype": "organization", "subtype": "initiative"}
+{"entity": "Portland General Electric", "etype": "organization", "subtype": "company"}
+{"entity": "Daimler Trucks North America", "etype": "organization", "subtype": "company"}
+{"entity": "Oregon", "etype": "location", "subtype": "location"}
+{"entity": "Electric Highway Coalition", "etype": "organization", "subtype": "coalition"}
+{"entity": "Midwestern coalition", "etype": "organization", "subtype": "coalition"}
+{"entity": "Volkswagen", "etype": "organization", "subtype": "company"}
+{"entity": "Electreon", "etype": "organization", "subtype": "company"}
+{"entity": "Eurovia", "etype": "organization", "subtype": "company"}
+{"entity": "VINCI", "etype": "organization", "subtype": "company"}
+{"entity": "EY", "etype": "organization", "subtype": "company"}
+{"entity": "Eurelectric", "etype": "organization", "subtype": "organization"}
+{"entity": "EY", "etype": "organization", "subtype": "company"}
+{"entity": "Ernst & Young Global Limited", "etype": "organization", "subtype": "company"}
+{"entity": "AB", "etype": "organization", "subtype": "company"}
+{"entity": "Columbia Climate School", "etype": "organization", "subtype": "organization"}
+{"entity": "Columbia University’s Earth Institute", "etype": "organization", "subtype": "organization"}
+{"entity": "BNY Investments", "etype": "organization", "subtype": "organization"}
+{"entity": "Michael Scott", "etype": "person", "subtype": "person"}
+{"entity": "Paul Loudon", "etype": "person", "subtype": "person"}
+{"entity": "Chongqing", "etype": "location", "subtype": "city"}
+{"entity": "Chengdu", "etype": "location", "subtype": "city"}
+{"entity": "BMW", "etype": "organization", "subtype": "company"}
+{"entity": "Mercedes", "etype": "organization", "subtype": "company"}
+{"entity": "Audi", "etype": "organization", "subtype": "company"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "China", "etype": "location", "subtype": "country"}
+{"entity": "Beijing", "etype": "location", "subtype": "city"}
+{"entity": "Shanghai", "etype": "location", "subtype": "city"}
+{"entity": "Guangzhou", "etype": "location", "subtype": "city"}
+{"entity": "Shenzhen", "etype": "location", "subtype": "city"}
+{"entity": "BBVA Research", "etype": "organization", "subtype": "organization"}
+{"entity": "Wood Mackenzie", "etype": "organization", "subtype": "organization"}
+{"entity": "Forbes", "etype": "organization", "subtype": "organization"}
+{"entity": "John Maynard Keynes", "etype": "person", "subtype": "person"}
+{"entity": "BNY Investments", "etype": "organization", "subtype": "organization"}
+{"entity": "The Bank of New York Mellon Corporation", "etype": "organization", "subtype": "organization"}
+{"entity": "Walter Scott & Partners Limited", "etype": "organization", "subtype": "organization"}
+{"entity": "John Maynard Keynes", "etype": "person", "subtype": "person"}
+{"entity": "KPMG", "etype": "organization", "subtype": "company"}
+{"entity": "US EV market", "etype": "organization", "subtype": "market"}
+{"entity": "Capital Group", "etype": "organization", "subtype": "organization"}
+{"entity": "Carl Kawaja", "etype": "person", "subtype": "person"}
+{"entity": "Irfan Furniturewala", "etype": "person", "subtype": "person"}
+{"entity": "Drew Macklis", "etype": "person", "subtype": "person"}
+{"entity": "Julie Wang Chou", "etype": "person", "subtype": "person"}
+{"entity": "Capital Group", "etype": "organization", "subtype": "company"}
+{"entity": "Russell Investments", "etype": "organization", "subtype": "organization"}
+{"entity": "Russell Investments", "etype": "organization", "subtype": "company"}
+{"entity": "TA Associates Management, L.P.", "etype": "organization", "subtype": "company"}
+{"entity": "Reverence Capital Partners, L.P.", "etype": "organization", "subtype": "company"}
+{"entity": "Hamilton Lane Advisors, LLC", "etype": "organization", "subtype": "company"}
+{"entity": "Environmental Defense Fund", "etype": "organization", "subtype": "organization"}
+{"entity": "WSP USA", "etype": "organization", "subtype": "organization"}
+{"entity": "Ellen Robo", "etype": "person", "subtype": "person"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "Ford", "etype": "organization", "subtype": "company"}
+{"entity": "Elon Musk", "etype": "person", "subtype": "person"}
+{"entity": "Roadster", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Model S", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Model X", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Model 3", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Model Y", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Cybertruck", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Tesla Semi", "etype": "product", "subtype": "vehicle model"}
+{"entity": "robo-taxis", "etype": "product", "subtype": "vehicle model"}
+{"entity": "US EV market", "etype": "organization", "subtype": "market"}
+{"entity": "Solar Panels", "etype": "organization", "subtype": "energy generation product"}
+{"entity": "Solar Roof Tiles", "etype": "organization", "subtype": "energy generation product"}
+{"entity": "Battery Systems", "etype": "organization", "subtype": "energy storage product"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "BYD", "etype": "organization", "subtype": "company"}
+{"entity": "Elon Musk", "etype": "person", "subtype": "person"}
+{"entity": "Berkshire Hathaway Inc.", "etype": "organization", "subtype": "company"}
+{"entity": "China", "etype": "location", "subtype": "country"}
+{"entity": "U.S.", "etype": "location", "subtype": "country"}
+{"entity": "EU", "etype": "location", "subtype": "region"}
+{"entity": "Brazil", "etype": "location", "subtype": "country"}
+{"entity": "India", "etype": "location", "subtype": "country"}
+{"entity": "BYD Tang", "etype": "product", "subtype": "vehicle model"}
+{"entity": "BYD Han", "etype": "product", "subtype": "vehicle model"}
+{"entity": "BYD e6", "etype": "product", "subtype": "vehicle model"}
+{"entity": "BYD Seagull", "etype": "product", "subtype": "vehicle model"}
+{"entity": "BYD", "etype": "organization", "subtype": "company"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "Uber Technologies", "etype": "organization", "subtype": "company"}
+{"entity": "Ford Motor Company", "etype": "organization", "subtype": "company"}
+{"entity": "Jim Farley", "etype": "person", "subtype": "person"}
+{"entity": "Ford Mustang Mach-E", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Ford", "etype": "organization", "subtype": "company"}
+{"entity": "Farley", "etype": "person", "subtype": "person"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "GM", "etype": "organization", "subtype": "company"}
+{"entity": "NIO", "etype": "organization", "subtype": "company"}
+{"entity": "Mustang", "etype": "product", "subtype": "vehicle model"}
+{"entity": "F-150 Lightning", "etype": "product", "subtype": "vehicle model"}
+{"entity": "E-Transit", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Chevrolet Bolt", "etype": "product", "subtype": "vehicle model"}
+{"entity": "GMC Hummer EV", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Cadillac Lyriq", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Chevrolet Silverado EV", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Equinox EV", "etype": "product", "subtype": "vehicle model"}
+{"entity": "GMC Sierra EV", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Cadillac Optiq", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Escalade IQ", "etype": "product", "subtype": "vehicle model"}
+{"entity": "United States", "etype": "location", "subtype": "location"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "BYD", "etype": "organization", "subtype": "company"}
+{"entity": "NIO", "etype": "organization", "subtype": "company"}
+{"entity": "Volkswagen", "etype": "organization", "subtype": "company"}
+{"entity": "Jiading, China", "etype": "location", "subtype": "location"}
+{"entity": "Wolfsburg, Germany", "etype": "location", "subtype": "location"}
+{"entity": "Onvo", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Model Y", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "U.S. government", "etype": "organization", "subtype": "organization"}
+{"entity": "Elon Musk", "etype": "person", "subtype": "person"}
+{"entity": "Donald Trump", "etype": "person", "subtype": "person"}
+{"entity": "Joe Biden", "etype": "person", "subtype": "person"}
+{"entity": "Inflation Reduction Act of 2022", "etype": "organization", "subtype": "policy"}
+{"entity": "BYD", "etype": "organization", "subtype": "company"}
+{"entity": "Xiaomi", "etype": "organization", "subtype": "company"}
+{"entity": "United States", "etype": "location", "subtype": "location"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "Elon Musk", "etype": "person", "subtype": "person"}
+{"entity": "U.S.", "etype": "location", "subtype": "location"}
+{"entity": "International Energy Agency", "etype": "organization", "subtype": "organization"}
+{"entity": "Pepsico", "etype": "organization", "subtype": "company"}
+{"entity": "China", "etype": "location", "subtype": "location"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "Berkshire Hathaway", "etype": "organization", "subtype": "company"}
+{"entity": "BYD", "etype": "organization", "subtype": "company"}
+{"entity": "BYD USA", "etype": "organization", "subtype": "company"}
+{"entity": "Uber Technologies Inc.", "etype": "organization", "subtype": "company"}
+{"entity": "Ford Motor Company", "etype": "organization", "subtype": "company"}
+{"entity": "General Motors", "etype": "organization", "subtype": "company"}
+{"entity": "NIO", "etype": "organization", "subtype": "company"}
+{"entity": "Elon Musk", "etype": "person", "subtype": "person"}
+{"entity": "U.S.", "etype": "organization", "subtype": "location"}
+{"entity": "Carola Binder", "etype": "organization", "subtype": "person"}
+{"entity": "Christos Makridis", "etype": "organization", "subtype": "person"}
+{"entity": "U.S. Energy Information Administration", "etype": "organization", "subtype": "organization"}
+{"entity": "U.S.", "etype": "location", "subtype": "location"}
+{"entity": "Stephen P. Holland", "etype": "person", "subtype": "person"}
+{"entity": "Erin T. Mansur", "etype": "person", "subtype": "person"}
+{"entity": "Andrew Yates", "etype": "person", "subtype": "person"}
+{"entity": "Harvard University", "etype": "organization", "subtype": "organization"}
+{"entity": "China", "etype": "organization", "subtype": "country"}
+{"entity": "MIT Technology Review", "etype": "organization", "subtype": "media"}
+{"entity": "Sino Auto Insights", "etype": "organization", "subtype": "business consulting firm"}
+{"entity": "Tu Le", "etype": "person", "subtype": "person"}
+{"entity": "General Motors", "etype": "organization", "subtype": "company"}
+{"entity": "Toyota", "etype": "organization", "subtype": "company"}
+{"entity": "International Council on Clean Transportation", "etype": "organization", "subtype": "organization"}
+{"entity": "He Hui", "etype": "person", "subtype": "person"}
+{"entity": "Wan Gang", "etype": "person", "subtype": "person"}
+{"entity": "Center for Strategic and International Studies", "etype": "organization", "subtype": "organization"}
+{"entity": "BYD", "etype": "organization", "subtype": "company"}
+{"entity": "China", "etype": "location", "subtype": "location"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "China", "etype": "organization", "subtype": "location"}
+{"entity": "Shanghai", "etype": "organization", "subtype": "location"}
+{"entity": "Alicia García-Herrero", "etype": "person", "subtype": "person"}
+{"entity": "Natixis", "etype": "organization", "subtype": "company"}
+{"entity": "Max Reid", "etype": "person", "subtype": "person"}
+{"entity": "Wood Mackenzie", "etype": "organization", "subtype": "company"}
+{"entity": "Contemporary Amperex Technology Co. Limited (CATL)", "etype": "organization", "subtype": "company"}
+{"entity": "China", "etype": "organization", "subtype": "country"}
+{"entity": "Reid", "etype": "person", "subtype": "person"}
+{"entity": "AlixPartners", "etype": "organization", "subtype": "company"}
+{"entity": "BYD", "etype": "organization", "subtype": "company"}
+{"entity": "SAIC-GM-Wuling", "etype": "organization", "subtype": "company"}
+{"entity": "Geely", "etype": "organization", "subtype": "company"}
+{"entity": "Nio", "etype": "organization", "subtype": "company"}
+{"entity": "Xpeng", "etype": "organization", "subtype": "company"}
+{"entity": "LiAuto", "etype": "organization", "subtype": "company"}
+{"entity": "Tu", "etype": "person", "subtype": "person"}
+{"entity": "He", "etype": "person", "subtype": "person"}
+{"entity": "Mazzocco", "etype": "person", "subtype": "person"}
+{"entity": "India", "etype": "organization", "subtype": "country"}
+{"entity": "Brazil", "etype": "organization", "subtype": "country"}
+{"entity": "California Management Review", "etype": "organization", "subtype": "organization"}
+{"entity": "Mokter Hossain", "etype": "person", "subtype": "person"}
+{"entity": "Elon Musk", "etype": "person", "subtype": "person"}
+{"entity": "BYD", "etype": "organization", "subtype": "company"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "Electric Vehicles", "etype": "organization", "subtype": "product"}
+{"entity": "Tesla, Inc.", "etype": "organization", "subtype": "company"}
+{"entity": "BYD Company", "etype": "organization", "subtype": "company"}
+{"entity": "Volkswagen AG", "etype": "organization", "subtype": "company"}
+{"entity": "General Motors", "etype": "organization", "subtype": "company"}
+{"entity": "Ford Motor Company", "etype": "organization", "subtype": "company"}
+{"entity": "Rivian", "etype": "organization", "subtype": "company"}
+{"entity": "Lucid Motors", "etype": "organization", "subtype": "company"}
+{"entity": "NIO", "etype": "organization", "subtype": "company"}
+{"entity": "XPeng", "etype": "organization", "subtype": "company"}
+{"entity": "United States", "etype": "location", "subtype": "country"}
+{"entity": "Democratic Republic of the Congo", "etype": "location", "subtype": "country"}
+{"entity": "Australia", "etype": "location", "subtype": "country"}
+{"entity": "Chile", "etype": "location", "subtype": "country"}
+{"entity": "Argentina", "etype": "location", "subtype": "country"}
+{"entity": "China", "etype": "location", "subtype": "country"}
+{"entity": "United Nations Economic Commission for Europe", "etype": "organization", "subtype": "organization"}
+{"entity": "BYD", "etype": "organization", "subtype": "company"}
+{"entity": "Haas School of Business", "etype": "organization", "subtype": "organization"}
+{"entity": "University of California, Berkeley", "etype": "organization", "subtype": "organization"}
+{"entity": "California Management Review", "etype": "organization", "subtype": "organization"}
+{"entity": "U.S.-China Economic and Security Review Commission", "etype": "organization", "subtype": "organization"}
+{"entity": "Ilaria Mazzocco", "etype": "person", "subtype": "person"}
+{"entity": "China", "etype": "location", "subtype": "country"}
+{"entity": "United States", "etype": "location", "subtype": "country"}
+{"entity": "China", "etype": "organization", "subtype": "location"}
+{"entity": "International Energy Agency", "etype": "organization", "subtype": "organization"}
+{"entity": "NIO", "etype": "organization", "subtype": "company"}
+{"entity": "SAIC", "etype": "organization", "subtype": "company"}
+{"entity": "BAIC", "etype": "organization", "subtype": "company"}
+{"entity": "BYD", "etype": "organization", "subtype": "company"}
+{"entity": "XPeng", "etype": "organization", "subtype": "company"}
+{"entity": "Li Auto", "etype": "organization", "subtype": "company"}
+{"entity": "Polestar", "etype": "organization", "subtype": "company"}
+{"entity": "Berkshire Hathaway", "etype": "organization", "subtype": "company"}
+{"entity": "Wuling-SAIC-GM", "etype": "organization", "subtype": "organization"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "NIO", "etype": "organization", "subtype": "company"}
+{"entity": "BMW", "etype": "organization", "subtype": "company"}
+{"entity": "Renault", "etype": "organization", "subtype": "company"}
+{"entity": "Volkswagen", "etype": "organization", "subtype": "company"}
+{"entity": "BYD", "etype": "organization", "subtype": "company"}
+{"entity": "China", "etype": "location", "subtype": "location"}
+{"entity": "Europe", "etype": "location", "subtype": "location"}
+{"entity": "Southeast Asia", "etype": "location", "subtype": "location"}
+{"entity": "Thailand", "etype": "location", "subtype": "location"}
+{"entity": "Model 3", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Seagull", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Volkswagen", "etype": "organization", "subtype": "company"}
+{"entity": "GM", "etype": "organization", "subtype": "company"}
+{"entity": "China", "etype": "organization", "subtype": "location"}
+{"entity": "Thai government", "etype": "organization", "subtype": "organization"}
+{"entity": "CATL", "etype": "organization", "subtype": "company"}
+{"entity": "BYD", "etype": "organization", "subtype": "company"}
+{"entity": "NIO", "etype": "organization", "subtype": "company"}
+{"entity": "Ford", "etype": "organization", "subtype": "company"}
+{"entity": "Gotion", "etype": "organization", "subtype": "company"}
+{"entity": "Southeast Asia", "etype": "location", "subtype": "region"}
+{"entity": "Thailand", "etype": "location", "subtype": "country"}
+{"entity": "Brazil", "etype": "location", "subtype": "country"}
+{"entity": "Germany", "etype": "location", "subtype": "country"}
+{"entity": "Hungary", "etype": "location", "subtype": "country"}
+{"entity": "Center for Strategic and International Studies", "etype": "organization", "subtype": "organization"}
+{"entity": "Washington, DC", "etype": "location", "subtype": "location"}
+{"entity": "China", "etype": "organization", "subtype": "location"}
+{"entity": "BYD", "etype": "organization", "subtype": "company"}
+{"entity": "Li Auto", "etype": "organization", "subtype": "company"}
+{"entity": "CATL", "etype": "organization", "subtype": "company"}
+{"entity": "FDB", "etype": "organization", "subtype": "company"}
+{"entity": "Chinese Government", "etype": "organization", "subtype": "organization"}
+{"entity": "China", "etype": "organization", "subtype": "country"}
+{"entity": "BYD", "etype": "organization", "subtype": "company"}
+{"entity": "Li Auto", "etype": "organization", "subtype": "company"}
+{"entity": "Xiaomi", "etype": "organization", "subtype": "company"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "BMW", "etype": "organization", "subtype": "company"}
+{"entity": "Australian Strategic Policy Institute", "etype": "organization", "subtype": "organization"}
+{"entity": "Chinese Academy of Sciences", "etype": "organization", "subtype": "organization"}
+{"entity": "BYD", "etype": "organization", "subtype": "company"}
+{"entity": "Li Auto", "etype": "organization", "subtype": "company"}
+{"entity": "Xiaomi", "etype": "organization", "subtype": "company"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "BMW", "etype": "organization", "subtype": "company"}
+{"entity": "Organization for Economic Cooperation and Development", "etype": "organization", "subtype": "organization"}
+{"entity": "United States", "etype": "organization", "subtype": "location"}
+{"entity": "European Union", "etype": "organization", "subtype": "location"}
+{"entity": "Alliance for Automotive Manufacturing", "etype": "organization", "subtype": "organization"}
+{"entity": "Smith Richardson Foundation", "etype": "organization", "subtype": "organization"}
+{"entity": "Information Technology and Innovation Foundation", "etype": "organization", "subtype": "organization"}
+{"entity": "2021 Infrastructure Investment and Jobs Act", "etype": "organization", "subtype": "policy"}
+{"entity": "Inflation Reduction Act", "etype": "organization", "subtype": "policy"}
+{"entity": "Congress", "etype": "organization", "subtype": "organization"}
+{"entity": "University of Texas", "etype": "organization", "subtype": "organization"}
+{"entity": "Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976", "etype": "organization", "subtype": "policy"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "Rivian", "etype": "organization", "subtype": "company"}
+{"entity": "Lucid Technology", "etype": "organization", "subtype": "company"}
+{"entity": "Ford", "etype": "organization", "subtype": "company"}
+{"entity": "General Motors (GM)", "etype": "organization", "subtype": "company"}
+{"entity": "Mary Barra", "etype": "person", "subtype": "person"}
+{"entity": "QuantumScape", "etype": "organization", "subtype": "company"}
+{"entity": "Factorial Energy", "etype": "organization", "subtype": "company"}
+{"entity": "Solid Power", "etype": "organization", "subtype": "company"}
+{"entity": "LG", "etype": "organization", "subtype": "company"}
+{"entity": "SK", "etype": "organization", "subtype": "company"}
+{"entity": "United States", "etype": "location", "subtype": "location"}
+{"entity": "China", "etype": "organization", "subtype": "location"}
+{"entity": "TrendForce", "etype": "organization", "subtype": "organization"}
+{"entity": "BYD", "etype": "organization", "subtype": "company"}
+{"entity": "GAC Aion", "etype": "organization", "subtype": "company"}
+{"entity": "SAIC-GM-Wuling", "etype": "organization", "subtype": "company"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "Volkswagen", "etype": "organization", "subtype": "company"}
+{"entity": "Li Auto", "etype": "organization", "subtype": "company"}
+{"entity": "BMW", "etype": "organization", "subtype": "company"}
+{"entity": "Mercedes-Benz", "etype": "organization", "subtype": "company"}
+{"entity": "Volvo", "etype": "organization", "subtype": "company"}
+{"entity": "CATL", "etype": "organization", "subtype": "company"}
+{"entity": "FDB", "etype": "organization", "subtype": "company"}
+{"entity": "LG Energy", "etype": "organization", "subtype": "company"}
+{"entity": "Panasonic", "etype": "organization", "subtype": "company"}
+{"entity": "United States", "etype": "organization", "subtype": "country"}
+{"entity": "European Union", "etype": "organization", "subtype": "organization"}
+{"entity": "China", "etype": "organization", "subtype": "country"}
+{"entity": "Germany", "etype": "organization", "subtype": "country"}
+{"entity": "Japan", "etype": "organization", "subtype": "country"}
+{"entity": "BYD", "etype": "organization", "subtype": "company"}
+{"entity": "Michael Dunne", "etype": "person", "subtype": "person"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "Ford", "etype": "organization", "subtype": "company"}
+{"entity": "GM", "etype": "organization", "subtype": "company"}
+{"entity": "CATL", "etype": "organization", "subtype": "company"}
+{"entity": "BMW", "etype": "organization", "subtype": "company"}
+{"entity": "Elon Musk", "etype": "person", "subtype": "person"}
+{"entity": "Shenxing Plus", "etype": "product", "subtype": "battery model"}
+{"entity": "iX3", "etype": "product", "subtype": "battery EV model"}
+{"entity": "Gotion High-Tech", "etype": "organization", "subtype": "company"}
+{"entity": "Volkswagen", "etype": "organization", "subtype": "company"}
+{"entity": "China", "etype": "location", "subtype": "country"}
+{"entity": "lithium-iron-manganese phosphate (LFMP) battery", "etype": "product", "subtype": "battery model"}
+{"entity": "PwC and Strategy&", "etype": "organization", "subtype": "organization"}
+{"entity": "China", "etype": "location", "subtype": "location"}
+{"entity": "France", "etype": "location", "subtype": "location"}
+{"entity": "Germany", "etype": "location", "subtype": "location"}
+{"entity": "Italy", "etype": "location", "subtype": "location"}
+{"entity": "Spain", "etype": "location", "subtype": "location"}
+{"entity": "UK", "etype": "location", "subtype": "location"}
+{"entity": "Norway", "etype": "location", "subtype": "location"}
+{"entity": "Switzerland", "etype": "location", "subtype": "location"}
+{"entity": "Netherlands", "etype": "location", "subtype": "location"}
+{"entity": "US", "etype": "location", "subtype": "location"}
+{"entity": "PwC Autofacts", "etype": "organization", "subtype": "company"}
+{"entity": "Strategy&", "etype": "organization", "subtype": "company"}
+{"entity": "Steven van Arsdale", "etype": "person", "subtype": "person"}
+{"entity": "Felix Kuhnert", "etype": "person", "subtype": "person"}
+{"entity": "Dr. Jörn Neuhausen", "etype": "person", "subtype": "person"}
+{"entity": "The Motley Fool", "etype": "organization", "subtype": "company"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "Ford", "etype": "organization", "subtype": "company"}
+{"entity": "General Motors", "etype": "organization", "subtype": "company"}
+{"entity": "Stellantis", "etype": "organization", "subtype": "company"}
+{"entity": "BYD", "etype": "organization", "subtype": "company"}
+{"entity": "Honda", "etype": "organization", "subtype": "company"}
+{"entity": "Li Auto", "etype": "organization", "subtype": "company"}
+{"entity": "Rivian", "etype": "organization", "subtype": "company"}
+{"entity": "VinFast", "etype": "organization", "subtype": "company"}
+{"entity": "Nio", "etype": "organization", "subtype": "company"}
+{"entity": "Lucid", "etype": "organization", "subtype": "company"}
+{"entity": "XPeng", "etype": "organization", "subtype": "company"}
+{"entity": "NWTN", "etype": "organization", "subtype": "company"}
+{"entity": "Polestar", "etype": "organization", "subtype": "company"}
+{"entity": "S&P 500", "etype": "organization", "subtype": "index"}
+{"entity": "Deloitte", "etype": "organization", "subtype": "company"}
+{"entity": "United Kingdom", "etype": "organization", "subtype": "location"}
+{"entity": "BEV", "etype": "organization", "subtype": "product"}
+{"entity": "PHEV", "etype": "organization", "subtype": "product"}
+{"entity": "Deloitte", "etype": "organization", "subtype": "company"}
+{"entity": "China", "etype": "location", "subtype": "country"}
+{"entity": "United States", "etype": "location", "subtype": "country"}
+{"entity": "Europe", "etype": "location", "subtype": "region"}
+{"entity": "Norway", "etype": "location", "subtype": "country"}
+{"entity": "Netherlands", "etype": "location", "subtype": "country"}
+{"entity": "United Kingdom", "etype": "location", "subtype": "country"}
+{"entity": "European Union", "etype": "organization", "subtype": "political entity"}
+{"entity": "China", "etype": "organization", "subtype": "location"}
+{"entity": "Deloitte", "etype": "organization", "subtype": "company"}
+{"entity": "Deloitte", "etype": "organization", "subtype": "company"}
+{"entity": "China", "etype": "location", "subtype": "location"}
+{"entity": "Europe", "etype": "location", "subtype": "location"}
+{"entity": "United States", "etype": "location", "subtype": "location"}
+{"entity": "United Kingdom", "etype": "location", "subtype": "location"}
+{"entity": "Germany", "etype": "location", "subtype": "location"}
+{"entity": "France", "etype": "location", "subtype": "location"}
+{"entity": "Netherlands", "etype": "location", "subtype": "location"}
+{"entity": "Nordic countries", "etype": "location", "subtype": "location"}
+{"entity": "Germany", "etype": "organization", "subtype": "country"}
+{"entity": "China", "etype": "organization", "subtype": "country"}
+{"entity": "Deloitte", "etype": "organization", "subtype": "company"}
+{"entity": "Paris Agreement", "etype": "organization", "subtype": "policy"}
+{"entity": "EV charging infrastructure", "etype": "organization", "subtype": "infrastructure"}
+{"entity": "European Federation for Transport and Environment", "etype": "organization", "subtype": "organization"}
+{"entity": "IHS Markit", "etype": "organization", "subtype": "organization"}
+{"entity": "Deloitte", "etype": "organization", "subtype": "company"}
+{"entity": "China", "etype": "location", "subtype": "location"}
+{"entity": "United Kingdom", "etype": "location", "subtype": "location"}
+{"entity": "United Kingdom", "etype": "location", "subtype": "location"}
+{"entity": "U.S.-China Economic and Security Review Commission", "etype": "organization", "subtype": "organization"}
+{"entity": "Ilaria Mazzocco", "etype": "person", "subtype": "person"}
+{"entity": "China", "etype": "organization", "subtype": "location"}
+{"entity": "United States", "etype": "organization", "subtype": "location"}
+{"entity": "China", "etype": "location", "subtype": "country"}
+{"entity": "International Energy Agency", "etype": "organization", "subtype": "organization"}
+{"entity": "NIO", "etype": "organization", "subtype": "company"}
+{"entity": "SAIC", "etype": "organization", "subtype": "company"}
+{"entity": "BAIC", "etype": "organization", "subtype": "company"}
+{"entity": "BYD", "etype": "organization", "subtype": "company"}
+{"entity": "XPeng", "etype": "organization", "subtype": "company"}
+{"entity": "Li Auto", "etype": "organization", "subtype": "company"}
+{"entity": "Polestar", "etype": "organization", "subtype": "company"}
+{"entity": "Berkshire Hathaway", "etype": "organization", "subtype": "company"}
+{"entity": "Tesla", "etype": "organization", "subtype": "company"}
+{"entity": "NIO", "etype": "organization", "subtype": "company"}
+{"entity": "BMW", "etype": "organization", "subtype": "company"}
+{"entity": "Renault", "etype": "organization", "subtype": "company"}
+{"entity": "Volkswagen", "etype": "organization", "subtype": "company"}
+{"entity": "BYD", "etype": "organization", "subtype": "company"}
+{"entity": "China", "etype": "location", "subtype": "country"}
+{"entity": "Europe", "etype": "location", "subtype": "region"}
+{"entity": "Thailand", "etype": "location", "subtype": "country"}
+{"entity": "Model 3", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Seagull", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Volkswagen", "etype": "organization", "subtype": "company"}
+{"entity": "GM", "etype": "organization", "subtype": "company"}
+{"entity": "China", "etype": "location", "subtype": "location"}
+{"entity": "Europe", "etype": "location", "subtype": "location"}
+{"entity": "Southeast Asia", "etype": "location", "subtype": "location"}
+{"entity": "Thailand", "etype": "location", "subtype": "location"}
+{"entity": "Brazil", "etype": "location", "subtype": "location"}
+{"entity": "CATL", "etype": "organization", "subtype": "company"}
+{"entity": "BYD", "etype": "organization", "subtype": "company"}
+{"entity": "NIO", "etype": "organization", "subtype": "company"}
+{"entity": "Center for Strategic and International Studies", "etype": "organization", "subtype": "organization"}
+{"entity": "Washington, DC", "etype": "location", "subtype": "location"}
+{"entity": "McKinsey", "etype": "organization", "subtype": "company"}
+{"entity": "McKinsey Center for Future Mobility", "etype": "organization", "subtype": "organization"}
+{"entity": "Europe", "etype": "location", "subtype": "location"}
+{"entity": "United States", "etype": "location", "subtype": "location"}
+{"entity": "Lauritz Fischer", "etype": "person", "subtype": "person"}
+{"entity": "McKinsey", "etype": "organization", "subtype": "company"}
+{"entity": "Stuttgart", "etype": "location", "subtype": "location"}
+{"entity": "Felix Rupalla", "etype": "person", "subtype": "person"}
+{"entity": "New York", "etype": "location", "subtype": "location"}
+{"entity": "Shivika Sahdev", "etype": "person", "subtype": "person"}
+{"entity": "Boston", "etype": "location", "subtype": "location"}
+{"entity": "Ali Tanweer", "etype": "person", "subtype": "person"}
+{"entity": "Morgan Lee", "etype": "person", "subtype": "person"}
+{"entity": "Anna-Sophie Smith", "etype": "person", "subtype": "person"}
+{"entity": "United States government", "etype": "organization", "subtype": "organization"}
+{"entity": "EPA", "etype": "organization", "subtype": "organization"}
+{"entity": "Department of Energy", "etype": "organization", "subtype": "organization"}
+{"entity": "Argonne National Laboratory", "etype": "organization", "subtype": "organization"}
+{"entity": "EVs", "etype": "product", "subtype": "vehicle model"}
+{"entity": "PHEV", "etype": "product", "subtype": "vehicle model"}
+{"entity": "Department of Energy", "etype": "organization", "subtype": "organization"}
+{"entity": "Joint Office of Energy and Transportation", "etype": "organization", "subtype": "organization"}
+{"entity": "Bipartisan Infrastructure Law", "etype": "organization", "subtype": "policy"}
+{"entity": "Department of Energy", "etype": "organization", "subtype": "organization"}
+{"entity": "U.S. Energy Information Administration", "etype": "organization", "subtype": "organization"}
+{"entity": "Liz Najman", "etype": "person", "subtype": "person"}
+{"entity": "Deloitte", "etype": "organization", "subtype": "company"}
+{"entity": "United States EV market", "etype": "organization", "subtype": "organization"}
+{"entity": "BEV", "etype": "organization", "subtype": "product"}
+{"entity": "PHEV", "etype": "organization", "subtype": "product"}
+{"entity": "Deloitte", "etype": "organization", "subtype": "organization"}
+{"entity": "Norway", "etype": "organization", "subtype": "location"}
+{"entity": "Netherlands", "etype": "organization", "subtype": "location"}
+{"entity": "United Kingdom", "etype": "organization", "subtype": "location"}
+{"entity": "Germany", "etype": "organization", "subtype": "location"}
+{"entity": "European Union", "etype": "organization", "subtype": "location"}
+{"entity": "China", "etype": "organization", "subtype": "location"}
+{"entity": "European governments", "etype": "organization", "subtype": "organization"}
+{"entity": "China", "etype": "organization", "subtype": "location"}
+{"entity": "Deloitte", "etype": "organization", "subtype": "company"}
+{"entity": "Deloitte", "etype": "organization", "subtype": "company"}
+{"entity": "China", "etype": "location", "subtype": "country"}
+{"entity": "Europe", "etype": "location", "subtype": "continent"}
+{"entity": "United States", "etype": "location", "subtype": "country"}
+{"entity": "United Kingdom", "etype": "location", "subtype": "country"}
+{"entity": "Germany", "etype": "location", "subtype": "country"}
+{"entity": "France", "etype": "location", "subtype": "country"}
+{"entity": "Netherlands", "etype": "location", "subtype": "country"}
+{"entity": "Nordic countries", "etype": "location", "subtype": "region"}
+{"entity": "Germany", "etype": "organization", "subtype": "country"}
+{"entity": "China", "etype": "organization", "subtype": "country"}
+{"entity": "Deloitte", "etype": "organization", "subtype": "company"}
+{"entity": "IHS Markit", "etype": "organization", "subtype": "company"}
+{"entity": "European Federation for Transport and Environment", "etype": "organization", "subtype": "organization"}
+{"entity": "Deloitte", "etype": "organization", "subtype": "company"}
+{"entity": "Deloitte", "etype": "organization", "subtype": "company"}
+{"entity": "United Kingdom", "etype": "location", "subtype": "location"}

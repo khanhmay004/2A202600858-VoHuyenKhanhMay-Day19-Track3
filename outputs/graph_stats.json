@@ -1,0 +1,68 @@
+{
+  "nodes": 2407,
+  "edges": 2035,
+  "merged_duplicates": 81,
+  "distinct_relations": 1660,
+  "top_degree": [
+    [
+      "US EV market",
+      264
+    ],
+    [
+      "China",
+      109
+    ],
+    [
+      "Tesla",
+      72
+    ],
+    [
+      "United States",
+      55
+    ],
+    [
+      "BYD",
+      48
+    ],
+    [
+      "REE",
+      31
+    ],
+    [
+      "Polestar",
+      30
+    ],
+    [
+      "Germany",
+      30
+    ],
+    [
+      "Inflation Reduction Act",
+      28
+    ],
+    [
+      "Ford",
+      26
+    ],
+    [
+      "ZEEKR Intelligent Technology Holding Limited",
+      19
+    ],
+    [
+      "NVIDIA",
+      18
+    ],
+    [
+      "VinFast",
+      18
+    ],
+    [
+      "Nikola Corporation",
+      16
+    ],
+    [
+      "EVs",
+      16
+    ]
+  ]
+}

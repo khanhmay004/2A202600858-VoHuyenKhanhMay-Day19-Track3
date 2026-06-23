@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+outputs/chroma/
+.ipynb_checkpoints/
+dataset.zip
+*.pdf
+plan.md
+# debug logs
+*.err.log

@@ -1,0 +1,34 @@
+{
+  "rows": [
+    {
+      "phase": "Indexing (extract)",
+      "model": "gpt-4o-mini",
+      "in_tokens": 307161,
+      "out_tokens": 138714,
+      "usd": 0.1293,
+      "note": "~68 doc, 327s (ước lượng token)"
+    },
+    {
+      "phase": "Querying (bench)",
+      "model": "gpt-4o-mini",
+      "in_tokens": 6015,
+      "out_tokens": 965,
+      "usd": 0.0015,
+      "note": "token chính xác từ usage"
+    },
+    {
+      "phase": "Querying (bench)",
+      "model": "gpt-4o",
+      "in_tokens": 73458,
+      "out_tokens": 1201,
+      "usd": 0.1957,
+      "note": "token chính xác từ usage"
+    }
+  ],
+  "total_in_tokens": 386634,
+  "total_out_tokens": 140880,
+  "total_usd": 0.3264,
+  "index_seconds": 327.4,
+  "query_seconds": 115.9,
+  "n_questions": 20
+}

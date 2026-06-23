@@ -1,0 +1,22 @@
+[
+  {"id": 1, "type": "single", "q": "What was Tesla's share of the US EV market in Q1 2024?", "ref": "51.3%, down from 61.7% a year earlier"},
+  {"id": 2, "type": "single", "q": "What was the EV share of total new-vehicle sales in the US in Q1 2024?", "ref": "7.3%"},
+  {"id": 3, "type": "single", "q": "How many new electric vehicles did Americans buy in Q1 2024?", "ref": "268,909 (per Kelley Blue Book)"},
+  {"id": 4, "type": "single", "q": "What was the average transaction price of a new EV in the US in Q1 2024?", "ref": "$55,167, down about 9% year over year"},
+  {"id": 5, "type": "single", "q": "What happened to Chevy Bolt sales in Q1 2024 and why?", "ref": "Fell 64.3% to 7,040 units because production was halted; a new version is expected in 2025"},
+  {"id": 6, "type": "single", "q": "What EV tax credit does the Inflation Reduction Act offer?", "ref": "$7,500 per EV"},
+  {"id": 7, "type": "single", "q": "What was the electric share of new-vehicle sales in the US in 2020?", "ref": "About 2.4% (up from ~2% in 2019)"},
+  {"id": 8, "type": "single", "q": "What full-year 2024 EV market share does Cox Automotive forecast?", "ref": "About 10% by the end of 2024"},
+  {"id": 9, "type": "multi-hop", "q": "Which automakers grew EV sales more than 50% year over year in Q1 2024, and how did Tesla's sales change in the same period?", "ref": "BMW, Cadillac, Ford, Hyundai, Kia, Lexus, Mercedes, Rivian and Vinfast grew >50%; Tesla fell about 13.3%"},
+  {"id": 10, "type": "multi-hop", "q": "How did Tesla's average transaction price compare with the overall new-EV average in Q1 2024?", "ref": "Tesla's was $52,315, lower than the overall average of $55,167"},
+  {"id": 11, "type": "multi-hop", "q": "How is the $7,500 IRA credit related to EV leasing trends?", "ref": "Leasing lets buyers qualify for the full $7,500, so leasing more than doubled to about 27%"},
+  {"id": 12, "type": "multi-hop", "q": "Which luxury automakers grew EV sales in Q1 2024 and by how much?", "ref": "Cadillac +499.2% (Lyriq), Mercedes +66.9%, BMW +62.6%, Audi +28.8%"},
+  {"id": 13, "type": "multi-hop", "q": "How did states with ZEV regulations differ from states without them in EV market share?", "ref": "ZEV states had ~5% EV share vs ~1.3% in non-ZEV states"},
+  {"id": 14, "type": "multi-hop", "q": "How did Tesla's US EV market share trend from Q1 2023 to Q1 2024?", "ref": "Declined from 61.7% (Q1 2023) to 51.3% (Q1 2024)"},
+  {"id": 15, "type": "multi-hop", "q": "How did Ford's EV sales perform versus Tesla in Q1 2024?", "ref": "Ford rose 86.1% YoY (second-highest EV volume), while Tesla fell about 13.3%"},
+  {"id": 16, "type": "multi-hop", "q": "Which model drove Cadillac's EV growth and how large was it?", "ref": "The Lyriq; Cadillac grew 499.2% year over year"},
+  {"id": 17, "type": "single", "q": "Who is the market leader in US EVs and what is the trend in its share?", "ref": "Tesla leads but its share is declining (51.3%, down from 61.7%)"},
+  {"id": 18, "type": "multi-hop", "q": "What factors does Cox Automotive cite as driving EV sales higher in 2024 (the 'Year of More')?", "ref": "More new products, more incentives, more inventory, more leasing and more charging infrastructure"},
+  {"id": 19, "type": "single", "q": "What share of EVs were leased in Q1 2024 compared with a year earlier?", "ref": "About 27%, more than double the prior year"},
+  {"id": 20, "type": "multi-hop", "q": "Compare the sales trends of luxury EVs versus the affordable Chevy Bolt in Q1 2024.", "ref": "Luxury surged (Cadillac +499.2%, Mercedes +66.9%, BMW +62.6%) while the Chevy Bolt fell 64.3% due to halted production"}
+]

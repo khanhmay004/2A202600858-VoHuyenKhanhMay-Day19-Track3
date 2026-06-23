@@ -1,0 +1,225 @@
+<style>
+.lx-highlight { position: relative; border-radius:3px; padding:1px 2px;}
+.lx-highlight .lx-tooltip {
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.2s ease-in-out;
+  background: #333;
+  color: #fff;
+  text-align: left;
+  border-radius: 4px;
+  padding: 6px 8px;
+  position: absolute;
+  z-index: 1000;
+  bottom: 125%;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 12px;
+  max-width: 240px;
+  white-space: normal;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+}
+.lx-highlight:hover .lx-tooltip { visibility: visible; opacity:1; }
+.lx-animated-wrapper { max-width: 100%; font-family: Arial, sans-serif; }
+.lx-controls {
+  background: #fafafa; border: 1px solid #90caf9; border-radius: 8px;
+  padding: 12px; margin-bottom: 16px;
+}
+.lx-button-row {
+  display: flex; justify-content: center; gap: 8px; margin-bottom: 12px;
+}
+.lx-control-btn {
+  background: #4285f4; color: white; border: none; border-radius: 4px;
+  padding: 8px 16px; cursor: pointer; font-size: 13px; font-weight: 500;
+  transition: background-color 0.2s;
+}
+.lx-control-btn:hover { background: #3367d6; }
+.lx-progress-container {
+  margin-bottom: 8px;
+}
+.lx-progress-slider {
+  width: 100%; margin: 0; appearance: none; height: 6px;
+  background: #ddd; border-radius: 3px; outline: none;
+}
+.lx-progress-slider::-webkit-slider-thumb {
+  appearance: none; width: 18px; height: 18px; background: #4285f4;
+  border-radius: 50%; cursor: pointer;
+}
+.lx-progress-slider::-moz-range-thumb {
+  width: 18px; height: 18px; background: #4285f4; border-radius: 50%;
+  cursor: pointer; border: none;
+}
+.lx-status-text {
+  text-align: center; font-size: 12px; color: #666; margin-top: 4px;
+}
+.lx-text-window {
+  font-family: monospace; white-space: pre-wrap; border: 1px solid #90caf9;
+  padding: 12px; max-height: 260px; overflow-y: auto; margin-bottom: 12px;
+  line-height: 1.6;
+}
+.lx-attributes-panel {
+  background: #fafafa; border: 1px solid #90caf9; border-radius: 6px;
+  padding: 8px 10px; margin-top: 8px; font-size: 13px;
+}
+.lx-current-highlight {
+  border-bottom: 4px solid #ff4444;
+  font-weight: bold;
+  animation: lx-pulse 1s ease-in-out;
+}
+@keyframes lx-pulse {
+  0% { text-decoration-color: #ff4444; }
+  50% { text-decoration-color: #ff0000; }
+  100% { text-decoration-color: #ff4444; }
+}
+.lx-legend {
+  font-size: 12px; margin-bottom: 8px;
+  padding-bottom: 8px; border-bottom: 1px solid #e0e0e0;
+}
+.lx-label {
+  display: inline-block;
+  padding: 2px 4px;
+  border-radius: 3px;
+  margin-right: 4px;
+  color: #000;
+}
+.lx-attr-key {
+  font-weight: 600;
+  color: #1565c0;
+  letter-spacing: 0.3px;
+}
+.lx-attr-value {
+  font-weight: 400;
+  opacity: 0.85;
+  letter-spacing: 0.2px;
+}
+
+/* Add optimizations with larger fonts and better readability for GIFs */
+.lx-gif-optimized .lx-text-window { font-size: 16px; line-height: 1.8; }
+.lx-gif-optimized .lx-attributes-panel { font-size: 15px; }
+.lx-gif-optimized .lx-current-highlight { text-decoration-thickness: 4px; }
+</style>
+    <div class="lx-animated-wrapper lx-gif-optimized">
+      <div class="lx-attributes-panel">
+        <div class="lx-legend">Highlights Legend: <span class="lx-label" style="background-color:#D2E3FC;">organization</span> <span class="lx-label" style="background-color:#C8E6C9;">relationship</span></div>
+        <div id="attributesContainer"></div>
+      </div>
+      <div class="lx-text-window" id="textWindow">
+        Topic: US electric vehicle sector sentiment analysis
+Title: Electric Power Monthly - <span class="lx-highlight lx-current-highlight" data-idx="0" style="background-color:#D2E3FC;">U.S. Energy Information Administration</span> (EIA)
+Summary: <span class="lx-highlight" data-idx="1" style="background-color:#C8E6C9;">Financial market analysis and financial data</span> for major energy companies. ... Estimated <span class="lx-highlight" data-idx="2" style="background-color:#C8E6C9;">U.S. Consumption of Electricity</span> by Light-Duty Electric Vehicle Types ...
+
+Menu
+Crude oil, gasoline, heating oil, diesel, propane, and other liquids including biofuels and natural gas liquids.
+Exploration and reserves, storage, imports and exports, production, prices, sales.
+Sales, revenue and prices, power plants, fuel use, stocks, generation, trade, demand &amp; emissions.
+
+Energy use in homes, commercial buildings, manufacturing, and transportation.
+Reserves, production, prices, employment and productivity, distribution, stocks, imports and exports.
+<span class="lx-highlight" data-idx="3" style="background-color:#C8E6C9;">Includes</span> hydropower, solar, wind, geothermal, biomass and ethanol.
+Uranium fuel, nuclear reactors, generation, spent fuel.
+Comprehensive data summaries, comparisons, analysis, and projections integrated across all energy sources.
+Monthly and yearly energy forecasts, analysis of energy topics, financial analysis, congressional reports.
+
+Financial market analysis and financial data for major energy companies.
+Greenhouse gas data, voluntary reporting, electric power plant emissions.
+Maps, tools, and resources related to energy disruptions and infrastructure.
+State energy information, including overviews, rankings, data, and analyses.
+Maps by energy source and topic, includes forecast maps.
+International energy information, including overviews, rankings, data, and analyses.
+Regional energy information including dashboards, maps, data, and analyses.
+Tools to customize searches, view specific data sets, study detailed documentation, and access time-series data.
+EIA&#x27;s free and open data available as API, Excel add-in, bulk files, and widgets
+Come test out some of the products still in development and let us know what you think!
+EIA&#x27;s open source code, available on GitHub.
+Forms EIA uses to collect energy data including descriptions, links to survey instructions, and additional information.
+Sign up for email subcriptions to receive messages about specific EIA products
+Subscribe to feeds for updates on EIA products including Today in Energy and What&#x27;s New.
+
+Short, timely articles with graphics on energy, facts, issues, and trends.
+Lesson plans, science fair experiments, field trips, teacher guide, and career corner.
+Reports requested by congress or otherwise deemed important.
+Suspended
+Generating unit additions
+Generating unit retirements
+      </div>
+      <div class="lx-controls">
+        <div class="lx-button-row">
+          <button class="lx-control-btn" onclick="playPause()">▶️ Play</button>
+          <button class="lx-control-btn" onclick="prevExtraction()">⏮ Previous</button>
+          <button class="lx-control-btn" onclick="nextExtraction()">⏭ Next</button>
+        </div>
+        <div class="lx-progress-container">
+          <input type="range" id="progressSlider" class="lx-progress-slider"
+                 min="0" max="3" value="0"
+                 onchange="jumpToExtraction(this.value)">
+        </div>
+        <div class="lx-status-text">
+          Entity <span id="entityInfo">1/4</span> |
+          Pos <span id="posInfo">[85-123]</span>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      (function() {
+        const extractions = [{"index": 0, "class": "organization", "text": "U.S. Energy Information Administration", "color": "#D2E3FC", "startPos": 85, "endPos": 123, "beforeText": "Topic: US electric vehicle sector sentiment analysis\nTitle: Electric Power Monthly - ", "extractionText": "U.S. Energy Information Administration", "afterText": " (EIA)\nSummary: Financial market analysis and financial data for major energy companies. ... Estimated U.S. Consumption of Electricity by Light-Duty E", "attributesHtml": "<div><strong>class:</strong> organization</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">type</span>: <span class=\"lx-attr-value\">organization</span>}</div>"}, {"index": 1, "class": "relationship", "text": "provides financial market analysis and data", "color": "#C8E6C9", "startPos": 139, "endPos": 183, "beforeText": "Topic: US electric vehicle sector sentiment analysis\nTitle: Electric Power Monthly - U.S. Energy Information Administration (EIA)\nSummary: ", "extractionText": "Financial market analysis and financial data", "afterText": " for major energy companies. ... Estimated U.S. Consumption of Electricity by Light-Duty Electric Vehicle Types\u00a0...\n\nMenu\nCrude oil, gasoline, heating", "attributesHtml": "<div><strong>class:</strong> relationship</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">subject</span>: <span class=\"lx-attr-value\">U.S. Energy Information Administration</span>, <span class=\"lx-attr-key\">relation</span>: <span class=\"lx-attr-value\">PROVIDES_FINANCIAL_ANALYSIS</span>, <span class=\"lx-attr-key\">object</span>: <span class=\"lx-attr-value\">Major energy companies</span>}</div>"}, {"index": 2, "class": "relationship", "text": "estimates U.S. consumption of electricity", "color": "#C8E6C9", "startPos": 226, "endPos": 257, "beforeText": "onthly - U.S. Energy Information Administration (EIA)\nSummary: Financial market analysis and financial data for major energy companies. ... Estimated ", "extractionText": "U.S. Consumption of Electricity", "afterText": " by Light-Duty Electric Vehicle Types\u00a0...\n\nMenu\nCrude oil, gasoline, heating oil, diesel, propane, and other liquids including biofuels and natural ga", "attributesHtml": "<div><strong>class:</strong> relationship</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">subject</span>: <span class=\"lx-attr-value\">U.S. Energy Information Administration</span>, <span class=\"lx-attr-key\">relation</span>: <span class=\"lx-attr-value\">ESTIMATES_CONSUMPTION</span>, <span class=\"lx-attr-key\">object</span>: <span class=\"lx-attr-value\">Electricity by Light-Duty Electric Vehicle Types</span>}</div>"}, {"index": 3, "class": "relationship", "text": "includes comprehensive data summaries", "color": "#C8E6C9", "startPos": 781, "endPos": 789, "beforeText": "l buildings, manufacturing, and transportation.\nReserves, production, prices, employment and productivity, distribution, stocks, imports and exports.\n", "extractionText": "Includes", "afterText": " hydropower, solar, wind, geothermal, biomass and ethanol.\nUranium fuel, nuclear reactors, generation, spent fuel.\nComprehensive data summaries, compa", "attributesHtml": "<div><strong>class:</strong> relationship</div><div><strong>attributes:</strong> {<span class=\"lx-attr-key\">subject</span>: <span class=\"lx-attr-value\">U.S. Energy Information Administration</span>, <span class=\"lx-attr-key\">relation</span>: <span class=\"lx-attr-value\">INCLUDES_DATA_SUMMARIES</span>, <span class=\"lx-attr-key\">object</span>: <span class=\"lx-attr-value\">Comparisons, analysis, and projections across all energy sources</span>}</div>"}];
+        let currentIndex = 0;
+        let isPlaying = false;
+        let animationInterval = null;
+        let animationSpeed = 1.0;
+
+        function updateDisplay() {
+          const extraction = extractions[currentIndex];
+          if (!extraction) return;
+
+          document.getElementById('attributesContainer').innerHTML = extraction.attributesHtml;
+          document.getElementById('entityInfo').textContent = (currentIndex + 1) + '/' + extractions.length;
+          document.getElementById('posInfo').textContent = '[' + extraction.startPos + '-' + extraction.endPos + ']';
+          document.getElementById('progressSlider').value = currentIndex;
+
+          const playBtn = document.querySelector('.lx-control-btn');
+          if (playBtn) playBtn.textContent = isPlaying ? '⏸ Pause' : '▶️ Play';
+
+          const prevHighlight = document.querySelector('.lx-text-window .lx-current-highlight');
+          if (prevHighlight) prevHighlight.classList.remove('lx-current-highlight');
+          const currentSpan = document.querySelector('.lx-text-window span[data-idx="' + currentIndex + '"]');
+          if (currentSpan) {
+            currentSpan.classList.add('lx-current-highlight');
+            currentSpan.scrollIntoView({block: 'center', behavior: 'smooth'});
+          }
+        }
+
+        function nextExtraction() {
+          currentIndex = (currentIndex + 1) % extractions.length;
+          updateDisplay();
+        }
+
+        function prevExtraction() {
+          currentIndex = (currentIndex - 1 + extractions.length) % extractions.length;
+          updateDisplay();
+        }
+
+        function jumpToExtraction(index) {
+          currentIndex = parseInt(index);
+          updateDisplay();
+        }
+
+        function playPause() {
+          if (isPlaying) {
+            clearInterval(animationInterval);
+            isPlaying = false;
+          } else {
+            animationInterval = setInterval(nextExtraction, animationSpeed * 1000);
+            isPlaying = true;
+          }
+          updateDisplay();
+        }
+
+        window.playPause = playPause;
+        window.nextExtraction = nextExtraction;
+        window.prevExtraction = prevExtraction;
+        window.jumpToExtraction = jumpToExtraction;
+
+        updateDisplay();
+      })();
+    </script>

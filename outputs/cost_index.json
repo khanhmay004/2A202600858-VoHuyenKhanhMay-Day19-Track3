@@ -1,0 +1,9 @@
+{
+  "in_tokens_est": 307161,
+  "out_tokens_est": 138714,
+  "seconds": 327.3509931564331,
+  "compute_seconds": 1785.0124897956848,
+  "docs_processed": 68,
+  "docs_cached": 0,
+  "model": "gpt-4o-mini"
+}
