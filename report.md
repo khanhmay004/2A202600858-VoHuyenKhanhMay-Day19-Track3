@@ -1,6 +1,6 @@
 # BÁO CÁO LAB DAY 19 — Xây dựng hệ thống GraphRAG với Tech (EV) Company Corpus
 
-**Sinh viên:** Võ Huyền Khánh Mât · **Track 3 · Day 19**
+**Sinh viên:** Võ Huyền Khánh Mây -2A202600858 · **Track 3 · Day 19**
 **Stack:** `langextract` (trích xuất) · `NetworkX` (đồ thị) · `ChromaDB + all-MiniLM-L6-v2` (Flat RAG) · OpenAI `gpt-4o-mini`/`gpt-4o`
 
 ---
